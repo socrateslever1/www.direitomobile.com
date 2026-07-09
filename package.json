@@ -1,0 +1,25 @@
+{
+  "name": "www.direitohd.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socrateslever1/www.direitomobile.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/socrateslever1/www.direitomobile.com/issues"
+  },
+  "homepage": "https://github.com/socrateslever1/www.direitomobile.com#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
