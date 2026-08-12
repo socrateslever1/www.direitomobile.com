@@ -1,0 +1,4745 @@
+[
+  {
+    "id": "ato2",
+    "title": "Ato n.º 02/2020-1.ªVP (Altera o Ato n.º 01/2020-1.ªVP - Sistema Diferenciado de Urgência no 2.º Grau e digitalização de autos)",
+    "type": "Ato",
+    "area": "Direito Digital",
+    "sourceFile": "ato2.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "ato03-2020",
+    "title": "Ato n.º 03/2020-1ª VP (Regulamenta as sessões virtuais do TJ/RS no período diferenciado de atendimento de urgência)",
+    "type": "Ato",
+    "area": "Outros",
+    "sourceFile": "ato03-2020.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "ato037",
+    "title": "Ato n.º 037/2020-P TJ/RS (Institui a Política de Proteção e de Segurança de Dados Pessoais no âmbito do TJ/RS)",
+    "type": "Ato",
+    "area": "Direito Digital",
+    "sourceFile": "ato037.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "ato7",
+    "title": "Ato n.º 07/2020-1.ªVP (Altera dispositivos do Ato n.º 03/2020-1.ªVP - Sessão virtual; videoconferência, sustentação oral etc.)",
+    "type": "Ato",
+    "area": "Outros",
+    "sourceFile": "ato7.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "ato10",
+    "title": "Ato n.º 10/2019-P TJ/RS (Regulamenta o Sistema Eletrônico de Execução Unificado [SEEU] no âmbito da Justiça de 1.º grau)",
+    "type": "Ato",
+    "area": "Outros",
+    "sourceFile": "ato10.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "ato11",
+    "title": "Ato n.º 11/2020-1.ªVP TJ/RS (Regulamenta a apresentação de sustentação oral por arquivo de áudio ou de áudio/vídeo em 2º grau)",
+    "type": "Ato",
+    "area": "Outros",
+    "sourceFile": "ato11.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "ato28",
+    "title": "Ato n.º 28/2020-P (Prorrogação de prazos processuais que vencerem no dia 1.º de julho de 2020 em razão de temporal no RS)",
+    "type": "Ato",
+    "area": "Outros",
+    "sourceFile": "ato28.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "ato30",
+    "title": "Ato n.º 30/2020-P (Trata da suspensão de prazos dos processos judiciais e administrativos nos dias 1.º a 3 de julho de 2020)",
+    "type": "Ato",
+    "area": "Direito Administrativo",
+    "sourceFile": "ato30.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "calculadora-idade-ou-fuga",
+    "title": "Calculadora para Execução Penal: Para verificação de idades, período de tempo ou número de dias de fuga",
+    "type": "Documento",
+    "area": "Direito Penitenciário",
+    "sourceFile": "calculadora-idade-ou-fuga.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "cloudact",
+    "title": "Clarifying Lawful Overseas Use of Data Act (CLOUD Act)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "cloudact.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "codigodeconduta",
+    "title": "Código de Conduta da Alta Administração Federal",
+    "type": "Código",
+    "area": "Direito Administrativo",
+    "sourceFile": "codigodeconduta.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "cpp-v1",
+    "title": "Código de Processo Penal Anotado (Dec. n.º 3.689/1941) 1.ª Parte: Art. 1.º ao Art. 393",
+    "type": "Código",
+    "area": "Processo Penal",
+    "sourceFile": "cpp-v1.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "cpp-v2",
+    "title": "Código de Processo Penal Anotado (Dec. n.º 3.689/1941) 2.ª Parte: Art. 394 ao Art. 811",
+    "type": "Código",
+    "area": "Processo Penal",
+    "sourceFile": "cpp-v2.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "cp-v2",
+    "title": "Código Penal Anotado (Dec. n.º 2.848/1940) Parte Especial - Art. 121 ao Art. 361",
+    "type": "Código",
+    "area": "Direito Penal",
+    "sourceFile": "cp-v2.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "cp-v1",
+    "title": "Código Penal Anotado (Dec. n.º 2.848/1940) Parte Geral - Art. 1.º ao Art. 120",
+    "type": "Código",
+    "area": "Direito Penal",
+    "sourceFile": "cp-v1.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "ce-rs",
+    "title": "Constituição do Estado do Rio Grande do Sul (CE/RS)",
+    "type": "Constituição",
+    "area": "Direito Constitucional",
+    "sourceFile": "ce-rs.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "cf88",
+    "title": "Constituição Federal de 1988",
+    "type": "Constituição",
+    "area": "Direito Constitucional",
+    "sourceFile": "cf88.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "constitutionus",
+    "title": "Constitution of the United States",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "constitutionus.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "convencoes-internacionais",
+    "title": "Convenções e Tratados Internacionais",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "convencoes-internacionais.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9764-2019",
+    "title": "Dec n.º 9.764/2019 (Recebimento de doações de bens móveis e serviços de particular pela Adm.)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec-9764-2019.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11366",
+    "title": "Dec. 11.366/2023 (Suspende registros para aquisição e transferênciade armas e munições de uso restrito, etc.)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11366.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11615",
+    "title": "Dec. 11.615/2023 (Regulamenta o ED; aquisição, registro, posse, porte, cadastro, comércio, caça, desporto etc; Sinarm)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11615.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12438",
+    "title": "Dec. 12.438/2025 (Regulamenta o art. 49, § 1º, da Lei nº 12.305/10; exceções à proibição de importação de resíduos sólidos)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto12438.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec55115",
+    "title": "Dec. Est. n.º 55.115/2020 (Medidas temporárias de prevenção ao contágio pelo COVID-19)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec55115.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec55135",
+    "title": "Dec. Est. n.º 55.135/2020 (Altera os Decretos Estaduais nºs. 55.128/2020 e 55.129/2020 - atividades essenciais etc.)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec55135.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "rdp",
+    "title": "Dec. Estadual n.º 46.534/2009 (Regimento Disciplinar Penitenciário do Estado do RS) (RDP/RS)",
+    "type": "Decreto",
+    "area": "Direito Penitenciário",
+    "sourceFile": "rdp.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec06-20",
+    "title": "Dec. Leg. n.º 06/2020 (Estado de calamidade pública - Coronavírus [Covid-19])",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec06-20.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10433",
+    "title": "Dec. n. 10.433/2020 (Institui o Comitê de Governança Digital e Segurança da Informação da Presidência da República)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "dec10433.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11043",
+    "title": "Dec. n. 11.043/2022 (Aprova o Plano Nacional de Resíduos Sólidos)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11043.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11044",
+    "title": "Dec. n. 11.044/2022 (Institui o Certificado de Crédito de Reciclagem - Recicla+)",
+    "type": "Decreto",
+    "area": "Direito Financeiro",
+    "sourceFile": "dec11044.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11300",
+    "title": "Dec. n. 11.300/2022 (Regulameta os arts. 32 e 33 da Lei n. 12.305/10; Sistema de logística reversa de embalagens de vidro)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11300.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11443",
+    "title": "Dec. n. 11.443/2023 (Percentual mínimo de cargos em comissão e funções de confiança para pessoas negras na adm. púb. federal)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11443.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11777",
+    "title": "Dec. n. 11.777/23 (Protocolos Facultativos ao Pacto Int. sobre Direitos Civis e Políticos - Abolição pena de morte)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec11777.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "copia-lei-n-10-098-00-acessibilid",
+    "title": "Dec. n. 11.792/2023 (Acessibilidade nas edificações sob a administração ou a utilização dos órgãos ou entidades da adm. federal)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "cópia-lei-n-º-10-098-00-acessibilid.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto11841",
+    "title": "Dec. n. 11.841/2023 (Cooperação das guardas municipais com os órgãos de segurança pública da União, Estados e do DF)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "decreto11841.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto11843",
+    "title": "Dec. n. 11.843/2023 (Regulamenta a assistência à pessoa egressa; institui a Política Nacional de Atenção à Pessoa Egressa)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto11843.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto11856",
+    "title": "Dec. n. 11.856/2023 (Política Nacional de Cibersegurança e o Comitê Nacional de Cibersegurança)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto11856.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto11878",
+    "title": "Dec. n. 11.878/2024 (Regulamenta o art. 79 da Lei n. 14.133/2021; credenciamento para contratação)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto11878.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11888",
+    "title": "Dec. n. 11.888/2024 (Estratégia Nacional de Disseminação do Building Information Modelling; Comitê Gestor; revoga Dec. 9.983/19)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11888.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto11946",
+    "title": "Dec. n. 11.946/2024 (Institui o Programa Nacional de Processo Eletrônico)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto11946.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12056",
+    "title": "Dec. n. 12.056/2024 (Convenção relativa à Transferência de Pessoas Condenadas, firmada pela Rep. Fed. do Brasil, 21/03/1983)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "decreto12056.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12069",
+    "title": "Dec. n. 12.069/2024 (Estratégia Nacional de Governo Digital; Rede Nacional de Governo Digital - Rede Gov.br; estratégia 2024/2027)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "decreto12069.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12572",
+    "title": "Dec. n. 12.572/2025 (Política Nacional de Segurança da Informação; dispõe sobre governança da segurança da inf. na adm. federal)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto12572.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec12710",
+    "title": "Dec. n. 12.710/2025 (Plano Nacional de Proteção a Defensoras e Defensores de Direitos Humanos)",
+    "type": "Decreto",
+    "area": "Direitos Humanos",
+    "sourceFile": "dec12710.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12976",
+    "title": "Dec. n. 12.976/2026 (Diretrizes para a proteção de mulheres na internet; enfrentamento da violência contra mulheres no amb. digital)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "decreto12976.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto8771",
+    "title": "Dec. n. 8.771/2016 (Regulamenta o Marco Civil da Internet; discriminação de pacotes, degradação de tráfego, proteção de dados etc.)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "decreto8771.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec1171",
+    "title": "Dec. n.º 1.171/1994 (Aprova o Código de Ética Profissional do Servidor Público Civil do Poder Exec. Federal)",
+    "type": "Código",
+    "area": "Direito Civil",
+    "sourceFile": "dec1171.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10030",
+    "title": "Dec. n.º 10.030/2019 (Aprova o Regulamento de Produtos Controlados)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10030.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10033",
+    "title": "Dec. n.º 10.033/2019 (Acordo de Madri sobre Registro Internacional de Marcas; Regulamento Comum do Acordo de Madri)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec10033.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10046",
+    "title": "Dec. n.º 10.046/2019 (Compartilhamento de dados no âmbito da Adm. Pública; Cadastro Base do Cidadão; Comitê Central)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "dec10046.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10053",
+    "title": "Dec. n.º 10.053/2019 (Aprova o Regulamento do Fundo de Desenvolvimento da Amazônia)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10053.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10106",
+    "title": "Dec. n.º 10.106/2019 (Política de fomento aos Sistemas Prisionais Estaduais no âmbito do PPI da Presidência da República)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10106.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10125",
+    "title": "Dec. n.º 10.125/2019 (Trâmite dos processos de nomeação para órgãos do Judiciário, MPU e CNMP pelo Presidente da República)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10125.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10133",
+    "title": "Dec. n.º 10.133/2019 (Institui o Programa Viver - Envelhecimento Ativo e Saudável)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10133.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10139",
+    "title": "Dec. n.º 10.139/2019 (Dispõe sobre a revisão e consolidação dos atos normativos inferiores a decreto)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10139.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10153",
+    "title": "Dec. n.º 10.153/2019 (Proteção à identidade dos denunciantes de ilícitos e irregularidades praticados contra a Adm. Federal)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10153.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10159",
+    "title": "Dec. n.º 10.159/2019 (Institui o Comitê de Governança Digital da Presidência da República)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "dec10159.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10189",
+    "title": "Dec. n.º 10.189/2019 (Concede indulto natalino e dá outras providências)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10189.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10193",
+    "title": "Dec. n.º 10.193/2019 (Limites e instâncias de governança; contratação de bens e serviços; gastos com diárias e passagens)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10193.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10201",
+    "title": "Dec. n.º 10.201/2020 (Regulamenta o § 4.º do art. 1.º e o art. 2.º da Lei n.º 9.469/97; autorizações para acordos e transações)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10201.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10209",
+    "title": "Dec. n.º 10.209/2020 (Requisição de informações e documentos; compartilhamento de informações protegidas pelo sigilo fiscal)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10209.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10224",
+    "title": "Dec. n.º 10.224/2020 (Regulamenta a Lei n.º 7.797/1989, que cria o Fundo Nacional do Meio Ambiente)",
+    "type": "Decreto",
+    "area": "Direito Ambiental",
+    "sourceFile": "dec10224.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10225",
+    "title": "Dec. n.º 10.225/2020 (Comitê Gestor da Política Nac. de Prevenção da Automutilação e do Suicídio; regulamento; notificações)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10225.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10229",
+    "title": "Dec. n.º 10.229/2020 (Regulamenta o art. 3.º, inc. VI, da Lei n.º 13.874/2019; novas modalidades de produtos e serviços)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10229.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10240",
+    "title": "Dec. n.º 10.240/2020 (Logística reversa; regulamenta o art. 33, inc. VI, e o art. 56, ambos da Lei n.º 12.305/10 e o Dec. n.º 9.177/17)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10240.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10267",
+    "title": "Dec. n.º 10.267/2020 (Dispõe sobre o transporte aéreo de autoridades em aeronaves do Comando da Aeronáutica)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10267.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10277",
+    "title": "Dec. n.º 10.277/2020 (Institui o Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid-19)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec10277.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10282",
+    "title": "Dec. n.º 10.282/2020 (Regulamenta a Lei n.º 13.979/2020; serviços públicos e as atividades essenciais)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10282.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10288",
+    "title": "Dec. n.º 10.288/2020 (Regulamenta a Lei n.º 13.979/2020; atividades e serviços relacionados à imprensa como essenciais)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10288.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10289",
+    "title": "Dec. n.º 10.289/2020 (Altera o Dec. n.º 10.277/2020; Centro de Coordenação de Operações; monitoramento etc)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10289.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10292",
+    "title": "Dec. n.º 10.292/2020 (Altera o Dec. n.º 10.282/2020; serviços públicos e as atividades essenciais)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10292.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10306",
+    "title": "Dec. n.º 10.306/2020 (Building Information Modelling na execução de obras e serviços de engenharia pela Adm. Pública. Federal)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10306.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10311",
+    "title": "Dec. n.º 10.311/2020 (Conselho de Solidariedade para combate à COVID-19 e aos seus Efeitos Sociais e Econômicos)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10311.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10316",
+    "title": "Dec. n.º 10.316/2020 (Regulamenta a Lei n.º 13.982/2020; auxílio emergencial em decorrência do COVID-19)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10316.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10341",
+    "title": "Dec. n.º 10.341/2020 (Emprego das Forças Armadas na Garantia da Lei e da Ordem na faixa de fronteira, terras indíginas etc.)",
+    "type": "Decreto",
+    "area": "Direito Militar",
+    "sourceFile": "dec10341.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10364",
+    "title": "Dec. n.º 10.364/2020 (Acordo de Cooperação Estratégica entre o Brasil e o Serviço Europeu de Polícia; crime organizado etc.)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec10364.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10375",
+    "title": "Dec. n.º 10.375/2020 (Programa Nacional de Bioinsumos e Conselho Estratégico do Programa Nacional de Bioinsumos)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10375.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10382",
+    "title": "Dec. n.º 10.382/2020 (Programa de Gestão Estratégica e Transformação do Estado no âmbito da Administração Federal)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "dec10382.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10388",
+    "title": "Dec. n.º 10.388/2020 (Regulamenta o § 1.º do caput do art. 33 da Lei n.º 12.305/10; logística reversa de medicamentos domiciliares)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10388.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10411",
+    "title": "Dec. n.º 10.411/2020 (Regulamenta a análise de impacto regulatório do art. 5.º da Lei n. 13.874/19 e do art. 6.º da Lei n. 13.848/19)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec10411.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10416",
+    "title": "Dec. n.º 10.416/2020 (Autoriza o uso de videoconferência nas reuniões de colegiados da administração pública federal)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "dec10416.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10464",
+    "title": "Dec. n.º 10.464/2020 (Regulamenta a Lei n.º 14.017/2020, ações emergenciais ao setor cultural durante o estado de calamidade)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10464.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10502",
+    "title": "Dec. n.º 10.502/2020 (Política Nacional de Educação Especial: Equitativa, Inclusiva e com Aprendizado ao Longo da Vida)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10502.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10543",
+    "title": "Dec. n.º 10.543/2020 (Assinaturas eletrônicas na Administração Pública Federal; regulamenta o art. 5.º da Lei n.º 14.036/2020)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "dec10543.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10590",
+    "title": "Dec. n.º 10.590/2020 (Concede indulto natalino e dá outras providências)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10590.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10622",
+    "title": "Dec. n.º 10.622/2021 (Autoridade central da Lei 13.812/19; Comitê Gestor; Política Nac. Busca de Pessoas Desaparecidas, etc)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10622.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10623",
+    "title": "Dec. n.º 10.623/2021 (Programa Adote Um Parque; conservação, recuperação e melhoria de unidades de conservação federais)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10623.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10634",
+    "title": "Dec. n.º 10.634/2021 (Divulgação de informações aos consumidores referentes aos preços dos combustíveis automotivos)",
+    "type": "Decreto",
+    "area": "Direito do Consumidor",
+    "sourceFile": "dec10634.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10645",
+    "title": "Dec. n.º 10.645/2021 (Regulamenta o art. 75 da Lei n.º 13.146/2015 - Plano Nacional de Tecnologia Assistiva)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10645.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10711",
+    "title": "Dec. n.º 10.711/2021 (Banco Nacional de Perfis Balísticos; Sistema Nacional de Análise Balística e o Comitê Gestor do Sistema)",
+    "type": "Decreto",
+    "area": "Direito Financeiro",
+    "sourceFile": "dec10711.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10748",
+    "title": "Dec. n.º 10.748/2021 (Institui a Rede Federal de Gestão de Incidentes Cibernéticos)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "dec10748.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10913",
+    "title": "Dec. n.º 10.913/2021 (Concede indulto natalino e dá outras providências)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10913.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10932",
+    "title": "Dec. n.º 10.932/2022 (Convenção Interamericana contra o Racismo, Discriminação Racial e Formas Correladas de Intolerância)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec10932.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10935",
+    "title": "Dec. n.º 10.935/2022 (Dispõe sobre a proteção das cavidades naturais subterrâneas existentes no território nacional)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10935.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10936",
+    "title": "Dec. n.º 10.936/2022 (Regulamenta a Lei n.º 12.305/2010, que institui a Política Nacional de Resíduos Sólidos)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10936.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11302",
+    "title": "Dec. n.º 11.302/2022 (Concede indulto natalino e dá outras providências)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11302.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11475",
+    "title": "Dec. n.º 11.475/2023 (Tratado Constitutivo da União de Nações Sul-Americanas - UNASUL)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11475.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto11846",
+    "title": "Dec. n.º 11.846/2023 (Concede indulto natalino e comutação e dá outras providências)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto11846.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12338",
+    "title": "Dec. n.º 12.338/2024 (Concede indulto natalino e comutação de pena e dá outras providências)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto12338.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12790",
+    "title": "Dec. n.º 12.790/2025 (Concede indulto natalino e comutação de pena e dá outras providências)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto12790.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "indultodiadasmaes122017",
+    "title": "Dec. n.º 12/2017 (Indulto especial e comutação de penas às mulheres presas - Dia das Mães)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "indultodiadasmaes122017.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec154-1991",
+    "title": "Dec. n.º 154/1991 (Convenção Contra o Tráfico de Entorpecentes)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec154-1991.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec186",
+    "title": "Dec. n.º 186/2008 (Aprova o texto da Convenção sobre os Direitos das Pessoas com Deficiência)",
+    "type": "Decreto",
+    "area": "Tutelas Especiais",
+    "sourceFile": "dec186.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec19841",
+    "title": "Dec. n.º 19.841/1945 (Carta das Nações Unidas - Estatuto da Corte Internacional de Justiça)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec19841.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec2556",
+    "title": "Dec. n.º 2.256/1998 (Regulamenta o art. 3.º da Lei n.º 9.609/98, sobre registro de programa de computador - software)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec2556.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec2553",
+    "title": "Dec. n.º 2.553/1998 (Regulamenta os arts. 75 e 88 a 93 da Lei n.º 9.279/1996 - Propriedade Industrial)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec2553.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec2652",
+    "title": "Dec. n.º 2.652/1998 (Convenção-Quadro das Nações Unidas sobre Mudança do Clima - Nova York, 9 de maio de 1992)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec2652.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec201",
+    "title": "Dec. n.º 201/1967 (Crimes de responsabilidade dos Prefeitos e Vereadores, e outras providências)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec201.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-3-201-99",
+    "title": "Dec. n.º 3.201/1999 (Concessão de licença compulsória nos casos de emergência nacional e de interesse público)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec-3-201-99.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec3365",
+    "title": "Dec. n.º 3.365/1941 (Dispõe sobre desapropriações por utilidade pública)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec3365.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-das-contravencoes-penais",
+    "title": "Dec. n.º 3.688/1941 (Lei das Contravenções Penais)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "lei-das-contravencoes-penais.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec3695",
+    "title": "Dec. n.º 3.695/2012 (Cria o Subsistema de Inteligência de Segurança Pública, no âmbito do Sistema Brasileiro de Inteligência)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "dec3695.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec3810",
+    "title": "Dec. n.º 3.810/2001 (Acordo de Assistência Judiciária em Matéria Penal entre Brasil e EUA - MLAT)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec3810.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec3976",
+    "title": "Dec. n.º 3.976/2001 (Execução da Res. 1373 do Cons. de Seg. das Nações Unidas; terrorismo)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec3976.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-4410",
+    "title": "Dec. n.º 4.410/2002 (Convenção Interamericana contra a Corrupção)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec-4410.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec4657lindb",
+    "title": "Dec. n.º 4.657/1942 (Lei de Introdução às Normas do Direito Brasileiro - LINDB)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec4657lindb.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec40-1991-convencaocontraatortura",
+    "title": "Dec. n.º 40/1991 (Convenção Contra a Tortura e Outros Tratamentos ou Penas Cruéis)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec40-1991-convencaocontraatortura.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-5123",
+    "title": "Dec. n.º 5.123/2004 (Regulamentava o Estatuto do Desarmamento) (Revogado)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec-5123.html",
+    "status": "Histórica/Revogada",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec5296",
+    "title": "Dec. n.º 5.296/2004 - (Regulamenta as Leis nºs 10.048/2000 e 10.098/2000; critérios para a promoção da acessibilidade)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec5296.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec5912",
+    "title": "Dec. n.º 5.912/2006 (Regulamenta a Lei n.º 11.343/06; Políticas Públicas sobre Drogas; SISNAD)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec5912.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec592",
+    "title": "Dec. n.º 592/1992 (Pacto Internacional sobre Direitos Civis e Políticos - Atos internacionais)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec592.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec6049",
+    "title": "Dec. n.º 6.049/2007 (Aprova o Regulamento Penitenciário Federal)",
+    "type": "Decreto",
+    "area": "Direito Penitenciário",
+    "sourceFile": "dec6049.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-6514-08",
+    "title": "Dec. n.º 6.514/2008 (Infrações administrativas ao meio ambiente; processo administrativo federal)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "dec-6514-08.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec6871",
+    "title": "Dec. n.º 6.871/2009 (Regulamenta a Lei n.º 8.918/1994; padronização e registro de bebidas)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec6871.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto6877-09-transferencia-presos",
+    "title": "Dec. n.º 6.877/2009 (Regulamenta a Lei n.º 11.671/2008 - Transferências para estab. federais)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto6877-09-transferencia-presos.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "pactodesaojosedacostarica",
+    "title": "Dec. n.º 678/1992 (Conv. Americana sobre Direitos Humanos - Pacto de São José da Costa Rica)",
+    "type": "Decreto",
+    "area": "Direitos Humanos",
+    "sourceFile": "pactodesaojosedacostarica.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec7030-2009-convencaodeviena",
+    "title": "Dec. n.º 7.030/2009 (Convenção de Viena sobre o Direito dos Tratados)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "dec7030-2009-convencaodeviena.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec7508",
+    "title": "Dec. n.º 7.508/2011 (Regulamenta a Lei n.º 8.080/90; organização do SUS; RENASES; RENAME; contrato organizativo etc.)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec7508.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec7616",
+    "title": "Dec. n.º 7.616/2011 (Declaração de Emergência em Saúde Pública de Importância Nacional - ESPIN; Força Nacional do SUS)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec7616.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "regul-monitoracao-eletronica",
+    "title": "Dec. n.º 7.627/2011 (Regulamenta a monitoração eletrônica)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "regul-monitoracao-eletronica.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec7724-acesso-a-informacao",
+    "title": "Dec. n.º 7.724/2012 (Regulamenta a Lei n.º 12.527/2011; acesso a informações)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec7724-acesso-a-informacao.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec7829-2012",
+    "title": "Dec. n.º 7.829/2012 (Regulamentava a Lei n.º 12.414/2011; cadastro; informações de adimplemento PF e PJ)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec7829-2012.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec7950",
+    "title": "Dec. n.º 7.950/2013 (Banco Nacional de Perfis Genéticos e a Rede Integrada de Perfis Genéticos)",
+    "type": "Decreto",
+    "area": "Direito Financeiro",
+    "sourceFile": "dec7950.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec7962",
+    "title": "Dec. n.º 7.962/2013 (Regulamenta a Lei n.º 8.078/1990 - CDC -, para dispor sobre a contratação no comércio eletrônico)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec7962.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "convencao-de-berna-dir-autorais",
+    "title": "Dec. n.º 75.699/1975 (Convenção de Berna - Proteção de obras literárias e artísticas)",
+    "type": "Decreto",
+    "area": "Direito Internacional",
+    "sourceFile": "convencao-de-berna-dir-autorais.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec8539",
+    "title": "Dec. n.º 8.539/2015 (Uso do meio eletrônico para realização do processo administrativo no âmbito dos orgãos federais)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "dec8539.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec8573",
+    "title": "Dec. n.º 8.573/2015 (Dispõe sobre o Consumidor.gov.br, sistema alternativo de solução de conflitos de consumo)",
+    "type": "Decreto",
+    "area": "Direito do Consumidor",
+    "sourceFile": "dec8573.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-indulto-8858",
+    "title": "Dec. n.º 8.858/2016 (Regulamenta o art. 199 da LEP - Uso de algemas)",
+    "type": "Decreto",
+    "area": "Direito Penitenciário",
+    "sourceFile": "dec-indulto-8858.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec8903-16",
+    "title": "Dec. n.º 8.903/2016 (Programa de Proteção Integrada de Fronteiras)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec8903-16.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "indulto-8940",
+    "title": "Dec. n.º 8.940/2016 (Concede indulto natalino e dá outras providências)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "indulto-8940.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9215",
+    "title": "Dec. n.º 9.215/2017 - Dispõe sobre a publicação do Diário Oficial da União (D.O.U.)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9215.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9246-indulto",
+    "title": "Dec. n.º 9.246/2017 (Concede indulto e comutação das penas)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9246-indulto.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9278",
+    "title": "Dec. n.º 9.278/2018 (Regulamenta a Lei n.º 7.116/1983; validade nacional às Carteiras de Identidade e regula sua expedição)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9278.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9296",
+    "title": "Dec. n.º 9.296/2018 (Regulamenta o art. 45 do Estatuto da Pessoa com Deficiência; acessibilidade em hotéis, pousadas e similares)",
+    "type": "Decreto",
+    "area": "Tutelas Especiais",
+    "sourceFile": "dec9296.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "indultodiadasmaes93702018",
+    "title": "Dec. n.º 9.370/2018 (Indulto especial e comutação de penas às mulheres presas - Dia das Mães)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "indultodiadasmaes93702018.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto9450-trabalhoprisional",
+    "title": "Dec. n.º 9.450/2018 (Política Nacional de Trabalho no âmbito do Sistema Prisional)",
+    "type": "Decreto",
+    "area": "Direito Penitenciário",
+    "sourceFile": "decreto9450-trabalhoprisional.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9489-2018",
+    "title": "Dec. n.º 9.489/2018 (Regulamenta a Lei n.º 13.675; execução da PNSPDS e do Susp)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec-9489-2018.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9492",
+    "title": "Dec. n.º 9.492/2018 (Participação e proteção dos direitos dos usuários dos serviços públicos)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "lei9492.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9493-18-produtoscontrolados",
+    "title": "Dec. n.º 9.493/2018 (Regulamento para fiscalização de produtos controlados) (Revogado)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec-9493-18-produtoscontrolados.html",
+    "status": "Histórica/Revogada",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9508-18-reserva-em-concursos",
+    "title": "Dec. n.º 9.508/2018 (Reserva às pessoas com deficiência percentual de cargos e empregos púb.)",
+    "type": "Decreto",
+    "area": "Tutelas Especiais",
+    "sourceFile": "dec-9508-18-reserva-em-concursos.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9527-18-forca-tarefa-crime-org",
+    "title": "Dec. n.º 9.527/2018 (Força-Tarefa de Inteligência para enfrentamento do crime organizado)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec-9527-18-forca-tarefa-crime-org.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9569",
+    "title": "Dec. n.º 9.569/2018 (Regulamenta a Lei n.º 12.213/2010 - Fundo Nacional da Pessoa Idosa; funcionamento do CNDPI)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9569.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9571-2018",
+    "title": "Dec. n.º 9.571/2018 (Diretrizes Nacionais sobre Empresas e Direitos Humanos)",
+    "type": "Decreto",
+    "area": "Direitos Humanos",
+    "sourceFile": "dec9571-2018.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9574",
+    "title": "Dec. n.º 9.574/2018 (Consolida atos editados pelo Poder Executivo Federal sobre gestão de direitos autorais e fonogramas)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9574.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9607",
+    "title": "Dec. n.º 9.607/2018 (Institui a Política Nacional de Exportação e Importação de Produtos de Defesa)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9607.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9630-2018",
+    "title": "Dec. n.º 9.630/2018 (Plano Nacional de Segurança Pública e Defesa Social)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "dec-9630-2018.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9637",
+    "title": "Dec. n.º 9.637/2018 (Política Nacional de Segurança da Informação; governança da segurança da informação e outros temas)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9637.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9685-2019",
+    "title": "Dec. n.º 9.685/2019 (Alterou o Dec. n.º 5.123/2004) (Revogado)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9685-2019.html",
+    "status": "Histórica/Revogada",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "indulto-dec-n-o-9-706-2019",
+    "title": "Dec. n.º 9.706/2019 (Concede indulto humanitário e dá outras providências)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "indulto-dec-n-o-9-706-2019.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9-708-19",
+    "title": "Dec. n.º 9.708/2019 (Emprego das Forças Armadas para Garantia da Lei e da Ordem em RO)",
+    "type": "Decreto",
+    "area": "Direito Militar",
+    "sourceFile": "dec-9-708-19.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9737",
+    "title": "Dec. n.º 9.739/2019 (Medidas de eficiência da Admin. Federal e normas sobre concursos; SIORG)",
+    "type": "Decreto",
+    "area": "Direito Administrativo",
+    "sourceFile": "dec9737.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9756",
+    "title": "Dec. n.º 9.756/2019 (Institui o portal único \"gov.br\" e dispõe sobre unificação dos canais digitais do Governo Federal)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9756.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9758-2019",
+    "title": "Dec. n.º 9.758/2019 (Formas de tratamento e endereçamento das comunicações da Adm. Fed.)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec-9758-2019.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9761-2019",
+    "title": "Dec. n.º 9.761/2019 (Política Nacional sobre Drogas)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec9761-2019.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9785-2019",
+    "title": "Dec. n.º 9.785/2019 (Regulamentava o Estatuto do Desarmamento) (Revogado)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec9785-2019.html",
+    "status": "Histórica/Revogada",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9825",
+    "title": "Dec. n.º 9.825/2019 (Regulamenta a Lei n.º 13.810/2019; sanções a acusados de terrorismo)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9825.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9830",
+    "title": "Dec. n.º 9.830/2019 (Regulamenta o disposto nos arts. 20 a 30 da LINDB)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9830.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9841",
+    "title": "Dec. n.º 9.841/2019 (Programa Nacional de Zoneamento Agrícola de Risco Climático)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9841.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9844",
+    "title": "Dec. n.º 9.844/2019 (Regulamentava o Estatuto do Desarmamento) (Revogado)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec9844.html",
+    "status": "Histórica/Revogada",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9845",
+    "title": "Dec. n.º 9.845/2019 (Regulamenta o Estatuto do Desarmamento: aquisição, cadastro, registro e posse)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec9845.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9846",
+    "title": "Dec. n.º 9.846/2019 (Regulamenta o Estatuto do Desarmamento: caçadores, colecionadores e atiradores)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec9846.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9847",
+    "title": "Dec. n.º 9.847/2019 (Regulamenta o Estatuto do Desarmamento)",
+    "type": "Decreto",
+    "area": "Direito Penal",
+    "sourceFile": "dec9847.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9-921-19-consolidacao-normas-id",
+    "title": "Dec. n.º 9.921/2019 (Consolida atos normativos do Executivo federal sobre a temática do idoso; INSS; transporte)",
+    "type": "Decreto",
+    "area": "Tutelas Especiais",
+    "sourceFile": "dec-9-921-19-consolidacao-normas-id.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9929",
+    "title": "Dec. n.º 9.929/2019 (Sistema Nacional de Informações de Registro Civil - Sirc; Comitê gestor)",
+    "type": "Decreto",
+    "area": "Direito Civil",
+    "sourceFile": "dec9929.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9936",
+    "title": "Dec. n.º 9.936/2019 (Regulamenta a Lei n.º 12.414/2011; cadastro; informações de adimplemento PF e PJ)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9936.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9937",
+    "title": "Dec. n.º 9.937/2019 (PPDDH - Proteção de Defensores de Direitos Humanos, comunicadores, ambientalistas)",
+    "type": "Decreto",
+    "area": "Direito Ambiental",
+    "sourceFile": "dec9937.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9983",
+    "title": "Dec. n.º 9.983/2019 (Estratégia Nacional de Disseminação do Building Information Modelling; Comitê Gestor)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9983.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec9992",
+    "title": "Dec. n.º 9.992/2019 (Suspensão da permissão do emprego do fogo que trata o Dec. n.º 2.661/1998 por 60 dias)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec9992.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto-911-69-alienacao-fiduciaria",
+    "title": "Dec. n.º 911/1969 (Alienação fiduciária)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto-911-69-alienacao-fiduciaria.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "convencaosobredireitosdacrianca",
+    "title": "Dec. n.º 99.710/1990 (Convenção sobre Diretos da Criança)",
+    "type": "Decreto",
+    "area": "Tutelas Especiais",
+    "sourceFile": "convencaosobredireitosdacrianca.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10064",
+    "title": "Dec. nº 10.064/2019 (Conselho das Autoridades Centrais Brasileiras para Adoção Internacional de Crianças e Adolescentes)",
+    "type": "Decreto",
+    "area": "Tutelas Especiais",
+    "sourceFile": "dec10064.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11246",
+    "title": "Dec. nº 11.246/2022 (Regulamenta o § 3º do art. 8º da Lei n. 14.133/21; agente de contratação; comissão de contratação etc.)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11246.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12376",
+    "title": "Dec. nº 12.376/2025 (Promulga o Acordo Mútuo de Certificados de Assinatura Digital do Mercosul)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "decreto12376.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec-9603-2018-regula-a-lei-13-431",
+    "title": "Dec. nº 9.603/2018 (Regulamenta a Lei n.º 13.431/2018 - Sistema de Garantia de Direitos)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec-9603-2018-regula-a-lei-13-431.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dudh",
+    "title": "Declaração Universal dos Direitos Humanos (DUDH)",
+    "type": "Documento",
+    "area": "Direitos Humanos",
+    "sourceFile": "dudh.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto11461",
+    "title": "Decreto n. 11.461/2023 (Leilão eletrônico; regulamenta o art. 31 da Lei n. 14.133/21; alienação de bens móveis e apreendidos)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto11461.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto11599",
+    "title": "Decreto n. 11.599/2023 (Prestação regionaliz. dos serviços públicos de saneamento básico; apoio técnico e financeiro etc.)",
+    "type": "Decreto",
+    "area": "Direito Financeiro",
+    "sourceFile": "decreto11599.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto11819",
+    "title": "Decreto n. 11.819/2023 (Regulamenta o art. 2, inc. XX, do Estatuto da Cidade; vedação da arquitetura hostil)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto11819.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12115",
+    "title": "Decreto n. 12.115/2024 (Institui o Sistema Nacional de Cadastro da Pessoa com Transtorno do Espectro Autista)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto12115.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12439",
+    "title": "Decreto n. 12.439/2025 (Prog. Nac. Proteção e Manejo Populacional Ético de Cães e Gatos; Cadastro Nacional de Animais Doméstic.)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto12439.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12573",
+    "title": "Decreto n. 12.573/2025 (Institui a Estratégia Nacional de Cibersegurança; revoga o Decreto n. 10.222/2020)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto12573.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "decreto12657",
+    "title": "Decreto n. 12.657/2025 (Política Nacional de Migrações, Refúgio e Apatridia, de que trata o art. 120 da Lei n. 13.445/2017; etc.)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "decreto12657.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10222",
+    "title": "Decreto n.º 10.222/2020 (Aprova a Estratégia Nacional de Segurança Cibernética)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "dec10222.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10332",
+    "title": "Decreto n.º 10.332/2020 (Estratégia de Governo Digital para o período de 2020 a 2022 nos órgão e entidades da Administração)",
+    "type": "Decreto",
+    "area": "Direito Digital",
+    "sourceFile": "dec10332.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec10728",
+    "title": "Decreto n.º 10.728/2021 (Regulamenta o art. 5.º da Lei n.º 8.745/1993; contratações temporárias excepcionais)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec10728.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec11447",
+    "title": "Decreto n.º 11.447/2023 (Institui o Programa Aquilomba Brasil e o seu Comitê Gestor)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec11447.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dec7393",
+    "title": "Decreto nº 7.393/2010 (Dispõe sobre a Centra de Atendimento à Mulher)",
+    "type": "Decreto",
+    "area": "Outros",
+    "sourceFile": "dec7393.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "cpm",
+    "title": "Decreto-Lei n.º 1.001/1969 (Código Penal Militar - CPM)",
+    "type": "Código",
+    "area": "Direito Penal",
+    "sourceFile": "cpm.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "deliberacao185",
+    "title": "Deliberação n.º 185/2020 do CONTRAN (Ampliação e interrução de prazos de processos e de procedimentos em razão da COVID-19)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "deliberação185.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "index",
+    "title": "Direito",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "index.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direito-administrativo",
+    "title": "Direito Administrativo",
+    "type": "Documento",
+    "area": "Direito Administrativo",
+    "sourceFile": "direito-administrativo.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitoambiental-agrario",
+    "title": "Direito Ambiental / Agrário",
+    "type": "Documento",
+    "area": "Direito Ambiental",
+    "sourceFile": "direitoambiental-agrario.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direito-autoral",
+    "title": "Direito Autoral",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "direito-autoral.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direito-civil-processo-civil",
+    "title": "Direito Civil e Processo Civil",
+    "type": "Documento",
+    "area": "Direito Civil",
+    "sourceFile": "direito-civil-processo-civil.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitoconstitucional",
+    "title": "Direito Constitucional e Organização Judiciária",
+    "type": "Documento",
+    "area": "Direito Constitucional",
+    "sourceFile": "direitoconstitucional.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitodetransito",
+    "title": "Direito de Trânsito",
+    "type": "Documento",
+    "area": "Direito de Trânsito",
+    "sourceFile": "direitodetransito.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direito-desportivo",
+    "title": "Direito Desportivo",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "direito-desportivo.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitodigital",
+    "title": "Direito Digital",
+    "type": "Documento",
+    "area": "Direito Digital",
+    "sourceFile": "direitodigital.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitoeleitoral",
+    "title": "Direito Eleitoral",
+    "type": "Lei",
+    "area": "Direito Eleitoral",
+    "sourceFile": "direitoeleitoral.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitoempresarial",
+    "title": "Direito Empresarial",
+    "type": "Documento",
+    "area": "Direito Empresarial",
+    "sourceFile": "direitoempresarial.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitofinanceiro",
+    "title": "Direito Financeiro",
+    "type": "Documento",
+    "area": "Direito Financeiro",
+    "sourceFile": "direitofinanceiro.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direito-institucional",
+    "title": "Direito Institucional e OAB",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "direito-institucional.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direito-internacional",
+    "title": "Direito Internacional",
+    "type": "Documento",
+    "area": "Direito Internacional",
+    "sourceFile": "direito-internacional.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitomilitar",
+    "title": "Direito Militar",
+    "type": "Documento",
+    "area": "Direito Militar",
+    "sourceFile": "direitomilitar.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "legislacao-penal-processual-penal",
+    "title": "Direito Penal",
+    "type": "Documento",
+    "area": "Direito Penal",
+    "sourceFile": "legislacao-penal-processual-penal.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "legislacao-penitenciaria",
+    "title": "Direito Penitenciário",
+    "type": "Documento",
+    "area": "Direito Penitenciário",
+    "sourceFile": "legislacao-penitenciaria.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitourbanistico",
+    "title": "Direito Urbanístico",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "direitourbanistico.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitosdacriancaedoadolescente",
+    "title": "Direitos da Criança e do Adolescente",
+    "type": "Documento",
+    "area": "Tutelas Especiais",
+    "sourceFile": "direitosdacriancaedoadolescente.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direitos-humanos-1",
+    "title": "Direitos Humanos",
+    "type": "Documento",
+    "area": "Direitos Humanos",
+    "sourceFile": "direitos-humanos-1.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "doacoes",
+    "title": "Doações clique aqui",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "doações.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "ec106",
+    "title": "Emenda Constitucional n.º 106/2020 (Regime extraordinário fiscal, financeiro e de contratações para enfrentamento da pandemia)",
+    "type": "Documento",
+    "area": "Direito Financeiro",
+    "sourceFile": "ec106.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "copia-emenda-constitucional-106",
+    "title": "Emenda Constitucional n.º 107/2020 (Adia, em razão da COVID-19, as eleições municipais de outubro de 2020 e prazos eleitorais)",
+    "type": "Lei",
+    "area": "Direito Eleitoral",
+    "sourceFile": "cópia-emenda-constitucional-106.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "covid-19",
+    "title": "Especial: Coronavírus (COVID-19)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "covid-19.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "exposiao-de-motivos-lep",
+    "title": "Exposição de Motivos à Lei de Execução Penal",
+    "type": "Lei",
+    "area": "Direito Penitenciário",
+    "sourceFile": "exposiao-de-motivos-lep.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "informativos",
+    "title": "Informativos de jurisprudência",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "informativos.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "instrucaonormativa001-2025gab-sup",
+    "title": "Instrução Normativa 001/2025 GAB/SUP (Institui e orienta a realização de tele visitas)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "instruçãonormativa001-2025gab-sup.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "legislacaoeua",
+    "title": "Legislação dos EUA (Legislation)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "legislacaoeua.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14785",
+    "title": "Lei 14.785/2023 (Fiscalização de agrotóxicos, produtos de controle ambiental, seus produtos técnicos e afins etc.)",
+    "type": "Lei",
+    "area": "Direito Ambiental",
+    "sourceFile": "lei14785.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14874",
+    "title": "Lei 14.874/2024 (Pesquisa com seres humanos e institui o Sistema Nacional de Ética em Pesquisa com Seres Humanos)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14874.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "loman",
+    "title": "Lei Compl. 35/1979 (Dispõe sobre a Lei Orgânica da Magistratura Nacional - LOMAN)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "loman.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "leicompl207",
+    "title": "Lei Compl. n. 207/24 (Seguro Obrigatório para Proteção de Vítimas de Acidentes de Trânsito; altera a Lei n. 9.503/97 etc.)",
+    "type": "Lei",
+    "area": "Direito de Trânsito",
+    "sourceFile": "leicompl207.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-compementar-105-01-sigilo-banca",
+    "title": "Lei Compl. n.º 105/2001 (Sigilo das operações de instituições financeiras)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-compementar-105-01-sigilo-banca.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lc167-19-empresa-simples-de-credito",
+    "title": "Lei Compl. n.º 167/2019 (Empresa Simples de Crédito - ESC; Inova Simples)",
+    "type": "Lei",
+    "area": "Direito Financeiro",
+    "sourceFile": "lc167-19-empresa-simples-de-credito.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lc173",
+    "title": "Lei Compl. n.º 173/2020 (Programa Federativo de Enfrentamento ao Coronavírus; altera a Lei Complementar n.º 101/2000)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lc173.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lc95",
+    "title": "Lei Compl. n.º 95/1998 (Elaboração, redação, alteração e consolidação de leis e atos normativos)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lc95.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "leicomplementar64",
+    "title": "Lei Complementar n.º 64/1990 (Estabelece os casos de inelegibilidade, prazos de cessação etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "leicomplementar64.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lep-v1",
+    "title": "Lei de Execução Penal Anotada (Lei n.º 7.210/1984) 1.ª Parte - Art. 1.º ao Art. 104",
+    "type": "Lei",
+    "area": "Direito Penitenciário",
+    "sourceFile": "lep-v1.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lep-v2",
+    "title": "Lei de Execução Penal Anotada (Lei n.º 7.210/1984) 2.ª Parte - Art. 105 ao Art. 204",
+    "type": "Lei",
+    "area": "Direito Penitenciário",
+    "sourceFile": "lep-v2.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14634",
+    "title": "Lei Estadual n.º 14.634/2014 (Institui a taxa única de serviços judiciais no RS)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14634.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "leiestadual15172",
+    "title": "Lei Estadual n.º 15.172/2018 (Autoriza o DETRAN/RS a gerir e controlar a remoção, depósito e guarda de veículos, sucatas e similiares)",
+    "type": "Lei",
+    "area": "Direito de Trânsito",
+    "sourceFile": "leiestadual15172.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei6536-73-estatuto-do-mp-rs",
+    "title": "Lei Estadual n.º 6.536/1973 (Estatuto do Ministério Público do Rio Grande do Sul)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei6536-73-estatuto-do-mp-rs.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "cojers",
+    "title": "Lei Estadual n.º 7.356/1980 (Código de Organização Judiciária do Estado do RS - COJE/RS)",
+    "type": "Código",
+    "area": "Direito Constitucional",
+    "sourceFile": "cojers.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13426",
+    "title": "Lei n. 13.426/2017 (Dispõe sobre a polítiica de controle de natalidade de cães e gatos e dá outras providências)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13426.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13935",
+    "title": "Lei n. 13.935/2019 (Dispõe sobre a prestação de serviços de psicologia e de serviço social nas redes públicas de educação básica)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13935.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14540",
+    "title": "Lei n. 14.450/2023 (Prevenção ao assédio sexual e crimes contra dignidade sexual e violência sexual)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei14540.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14541",
+    "title": "Lei n. 14.451/2023 (Criação funcionamento ininterrupto de Delegacias Especialiadas de Atendimento à Mulher)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14541.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "copia-lei-14-790-23-apostas-quota-f",
+    "title": "Lei n. 14.597/2023 (Institui a Lei Geral do Esporte)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "cópia-lei-14-790-23-apostas-quota-f.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14598",
+    "title": "Lei n. 14.598/2023 (Dispõe sobre a realização de exames em gestantes)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14598.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13-7752-18-subsidio-min-stf",
+    "title": "Lei n. 14.751/2023 (Lei Orgânica Nacional das Polícias Militares e dos Corpos de Bombeiros Militares dos Estados, DF e Territórios)",
+    "type": "Lei",
+    "area": "Direito Militar",
+    "sourceFile": "lei13-7752-18-subsidio-min-stf.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14768",
+    "title": "Lei n. 14.768/2023 (Define deficiência auditiva e estabelece valor referencial da limitação auditiva)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei14768.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14786",
+    "title": "Lei n. 14.786/2023 (Protocolo \"Não é Não\", para prevenção ao constrangimento e à violência contra a mulher e proteção à vítima)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14786.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14790",
+    "title": "Lei n. 14.790/2023 (Lotérica denominada apostas de quota fixa; fantasy sport; altera Leis 5.768/71, 13.756/18 e MP 2.158-35/01)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14790.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14811",
+    "title": "Lei n. 14.811/2024 (Medidas de proteção à criança e ao adolescente contra violência nos estab. educacionais etc.)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei14811.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14819",
+    "title": "Lei n. 14.819/2024 (Institui a Política Nacional de Atenção Psicossocial nas Comunidades Escolares)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14819.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14821",
+    "title": "Lei n. 14.821/2024 (Política Nacional de Trabalho Digno e Cidadania para a População em Situação de Rua - PNTC PopRua)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14821.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14850",
+    "title": "Lei n. 14.850/2024 (Institui a Política Nacional de Qualidade do Ar)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14850.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14852",
+    "title": "Lei n. 14.852/2024 (Cria o marco legal para indústria de jogos eletrônicos; altera as Leis n. 8.313/91; n. 8.685/93 e n. 9.279/96)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14852.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14899",
+    "title": "Lei n. 14.899/2024 (Metas para enfrentamento da violência doméstica e familiar contra a mulher; redes de atendimento etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14899.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14904",
+    "title": "Lei n. 14.904/2024 (Diretrizes para elaboração de planos de adaptação à mudança do clima; altera a Lei n. 12.114/2009, etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14904.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14944",
+    "title": "Lei n. 14.944/2024 (Política Nacional de Manejo Integrado do Fogo e altera as Leis n. 7.735/89, 12.651/2012 e 9.605/98)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14944.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14965",
+    "title": "Lei n. 14.965/2024 (Dispõe sobre as normas gerais relativas a concursos públicos)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei14965.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14967",
+    "title": "Lei n. 14.967/2024 (Estatuto da Segurança Privada e da Segurança das Instituições Financeiras; altera a Lei n. 10.826/03 etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14967.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei15069",
+    "title": "Lei n. 15.069/2024 (Institui a Política Nacional de Cuidados)",
+    "type": "Lei",
+    "area": "Direito Digital",
+    "sourceFile": "lei15069.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei15142",
+    "title": "Lei n. 15.142/2025 (Reserva às pessoas pretas, pardas, indígenas e quilombolas o percentual de 30% das vagas em concursos)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei15142.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei15252",
+    "title": "Lei n. 15.252/2025 (Dispõe sobre os direitos da pessoa natural usuária de serviços financeiros)",
+    "type": "Lei",
+    "area": "Direito Financeiro",
+    "sourceFile": "lei15252.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei15263",
+    "title": "Lei n. 15.263/2025 (Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei15263.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei15300",
+    "title": "Lei n. 15.300/2025 (Licenciamento ambiental especial; atividades e empreendimentos estratégicos, altera Leis 15.190/25 e 13.116/15)",
+    "type": "Lei",
+    "area": "Direito Ambiental",
+    "sourceFile": "lei15300.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei15355",
+    "title": "Lei n. 15.355/2026 (Política de Acolhimento e Manejo de Animais Resgatados - Amar; altera Lei n. 9.605/98, etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei15355.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei15358",
+    "title": "Lei n. 15.358/2026 (Marco Legal do Combate ao Crime Organizado no Brasil; Lei Raul Jungmann; altera CP, CPP, etc.)",
+    "type": "Código",
+    "area": "Processo Penal",
+    "sourceFile": "lei15358.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei15409",
+    "title": "Lei n. 15.409/2026 (Cadastro Nacional de Pessoas Condenadas por Violência contra a Mulher - CNVM)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei15409.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8842",
+    "title": "Lei n. 8.842/1994 (Dispõe sobre a política nacional do idoso, cria o Conselho Nacional do Idoso e dá outras providência)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei8842.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9514",
+    "title": "Lei n. 9.514/1997 (Sistema Financeiro Imobiliário, institui a alienação fiduciária de coisa móvel e dá outras providências)",
+    "type": "Lei",
+    "area": "Direito Financeiro",
+    "sourceFile": "lei9514.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9883",
+    "title": "Lei n. 9.883/1999 (Sistema Brasileiro de Inteligência, cria a Agência Brasileira de Inteligência - ABIN, e dá outras providências)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei9883.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-1060-50-assistencia-judiciaria",
+    "title": "Lei n.º 1.060/50 (Assistência judiciária aos necessitados - AJG)",
+    "type": "Lei",
+    "area": "Direito Constitucional",
+    "sourceFile": "lei-1060-50-assistencia-judiciaria.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei1079-1950",
+    "title": "Lei n.º 1.079/1950 (Crimes de responsabilidade)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei1079-1950.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei1521",
+    "title": "Lei n.º 1.521/1951 (Crimes contra a economia popular)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei1521.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10048",
+    "title": "Lei n.º 10.048/2000 (Prioridade de atendimento a idosos, portadores de deficiência, gestantes, lactantes etc.)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei10048.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10098",
+    "title": "Lei n.º 10.098/2000 (Promoção da acessibilidade das pessoas portadoras de deficiência)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei10098.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10216-2001",
+    "title": "Lei n.º 10.216/2001 (Proteção e direitos das pessoas portadoras de transtornos mentais)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei10216-2001.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10257",
+    "title": "Lei n.º 10.257/2001 (Estatuto da Cidade - regulamenta os arts. 182 e 182, ambos da CF/88; diretrizes da política urbana)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei10257.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10300",
+    "title": "Lei n.º 10.300/2001 (Crimes referentes ao uso de minas terrestres)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei10300.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10357",
+    "title": "Lei n.º 10.357/2001 (Controle e fiscalização sobre produtos químicos destinados à elaboração ilícita de entorpecentes etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei10357.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "codigo-civil-ncc",
+    "title": "Lei n.º 10.406/2002 (Código Civil - CC/2002)",
+    "type": "Código",
+    "area": "Direito Civil",
+    "sourceFile": "codigo-civil-ncc.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10446",
+    "title": "Lei n.º 10.446/2002 (Infrações penais de repercussão interestadual ou internacional; investigação pela Polícia Federal)",
+    "type": "Lei",
+    "area": "Processo Penal",
+    "sourceFile": "lei10446.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10671-03-estatuto-do-torcedor",
+    "title": "Lei n.º 10.671/2003 (Estatuto do Torcedor)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei10671-03-estatuto-do-torcedor.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10741-2003-estatuto-do-idoso",
+    "title": "Lei n.º 10.741/2003 (Estatuto do Idoso; atendimento preferencial; políticas públicas, crimes etc.)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei10741-2003-estatuto-do-idoso.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei10778",
+    "title": "Lei n.º 10.778/2003 (Notificação compulsória em caso de violência contra a mulher que for atendida em serviços de saúde)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei10778.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "estatutododesarmamento10826",
+    "title": "Lei n.º 10.826/2003 (Estatuto do Desarmamento)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "estatutododesarmamento10826.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei11101",
+    "title": "Lei n.º 11.101/2005 (Recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária)",
+    "type": "Lei",
+    "area": "Direito Empresarial",
+    "sourceFile": "lei11101.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei11107-2005-consorciospublicos",
+    "title": "Lei n.º 11.107/2005 (Normas gerais de contratação de consórsios públicos)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei11107-2005-consorciospublicos.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei11126",
+    "title": "Lei n.º 11.126/2015 (Portador de deficiência visual utilizar cão-guia em ambientes de uso coletivo)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei11126.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "leimariadapenha11340",
+    "title": "Lei n.º 11.340/2006 (Lei Maria da Penha)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "leimariadapenha11340.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei11343",
+    "title": "Lei n.º 11.343/2006 (Lei de Drogas)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei11343.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei11346",
+    "title": "Lei n.º 11.346/2006 (Sistema Nacional de Segurança Alimentar e Nutricional - SISAN)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei11346.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei11417",
+    "title": "Lei n.º 11.417/2006 (Edição, revisão e cancelamento de Súmulas Vinculantes; regulamenta o art. 103-A da CF/88)",
+    "type": "Súmula",
+    "area": "Outros",
+    "sourceFile": "lei11417.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-11419-informatizacao",
+    "title": "Lei n.º 11.419/2006 (Informatização do processo judicial)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-11419-informatizacao.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-11671-2008-transferencias",
+    "title": "Lei n.º 11.671/2008 (Transferência e inclusão de presos em estabelecimentos penais federais)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-11671-2008-transferencias.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei11697",
+    "title": "Lei n.º 11.697/2008 (Organização Judiciária do DF e dos Territórios; serviços notariais e de registro no DF)",
+    "type": "Lei",
+    "area": "Direito Constitucional",
+    "sourceFile": "lei11697.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei11794",
+    "title": "Lei n.º 11.794/2008 (Regulamenta o inciso VII do § 1.º do art. 225 da CF/1988, procedimentos para uso científico de animais)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei11794.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12009",
+    "title": "Lei n.º 12.009/2009 (Regulamenta atividades de transporte de passageiros, mototaxista, entrega de mercadorias e motoboy)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei12009.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-do-mandado-de-seguranca",
+    "title": "Lei n.º 12.016/2009 (Mandado de Segurança Individual e Coletivo)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-do-mandado-de-seguranca.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12030",
+    "title": "Lei n.º 12.030/09 (Dispõe sobre as perícias oficiais de natureza criminal)",
+    "type": "Lei",
+    "area": "Processo Penal",
+    "sourceFile": "lei12030.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12037-identificacaocriminal",
+    "title": "Lei n.º 12.037/2009 (Identificação criminal)",
+    "type": "Lei",
+    "area": "Processo Penal",
+    "sourceFile": "lei12037-identificacaocriminal.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "dmf",
+    "title": "Lei n.º 12.106/2009 (Departamento de Monitoramento e Fiscalização do Sistema Carcerário)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "dmf.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12153",
+    "title": "Lei n.º 12.153/2009 (Juizados Especiais da Fazenda Pública no âmbito dos Estados, DF, dos Territórios e dos Municípios)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei12153.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12288",
+    "title": "Lei n.º 12.288/2010 (Institui o Estatuto da Igualdade Racial)",
+    "type": "Lei",
+    "area": "Direitos Humanos",
+    "sourceFile": "lei12288.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12414-2011-bancos-de-dados",
+    "title": "Lei n.º 12.414/2011 (Bancos de dados com informações de adimplemento e histórico de crédito)",
+    "type": "Lei",
+    "area": "Direito Digital",
+    "sourceFile": "lei12414-2011-bancos-de-dados.html",
+    "status": "Histórica/Revogada",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12527-2011-acesso-a-informacoes",
+    "title": "Lei n.º 12.527/2011 (Acesso a informações; dados sigilosos, secretos, reservados, ultrassecretos)",
+    "type": "Lei",
+    "area": "Direito Digital",
+    "sourceFile": "lei12527-2011-acesso-a-informacoes.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12529",
+    "title": "Lei n.º 12.529/2011 (Sistema Brasileiro de Defesa da Concorrência; prevenção e repressão às infrações contra ordem econômica)",
+    "type": "Lei",
+    "area": "Direito Empresarial",
+    "sourceFile": "lei12529.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12587",
+    "title": "Lei n.º 12.587/2012 (Política Nacional de Mobilidade Urbana; regulamenta transporte privado; acessibilidade etc.)",
+    "type": "Lei",
+    "area": "Direito de Trânsito",
+    "sourceFile": "lei12587.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12651",
+    "title": "Lei n.º 12.651/2012 (Dispõe sobre a proteção da vegetação nativa e dá outras providências - \"Novo Código Florestal\")",
+    "type": "Código",
+    "area": "Direito Ambiental",
+    "sourceFile": "lei12651.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12694-julgamento-colegiado",
+    "title": "Lei n.º 12.694/2012 (Processo e julgamento colegiado nos crimes de organização criminosa)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei12694-julgamento-colegiado.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-n-o-12-714-12-sist-inf-de-exec",
+    "title": "Lei n.º 12.714/2012 (Sistema de execução das penas, da prisão cautelar e medida de segurança)",
+    "type": "Lei",
+    "area": "Processo Penal",
+    "sourceFile": "lei-n-o-12-714-12-sist-inf-de-exec.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12735",
+    "title": "Lei n.º 12.735/2012 (Delegacias especializadas no combate à ação delituosa via computadores ou sistemas informatizados)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei12735.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-n-12-737-12-delitos-informatico",
+    "title": "Lei n.º 12.737/2012 (Tipificação criminal de delitos informáticos; altera o Código Penal - \"Lei Carolina Dieckmann\")",
+    "type": "Código",
+    "area": "Processo Penal",
+    "sourceFile": "lei-n-12-737-12-delitos-informatico.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12764",
+    "title": "Lei n.º 12.764/2012 (Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; altera a Lei 8.112)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei12764.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12830-2013",
+    "title": "Lei n.º 12.830/2013 (Investigação criminal conduzida por delegado de polícia)",
+    "type": "Lei",
+    "area": "Processo Penal",
+    "sourceFile": "lei12830-2013.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12846",
+    "title": "Lei n.º 12.846/2013 (Responsabilização administrativa e civil de pessoas jurídicas - \"Lei Anticorrupção\")",
+    "type": "Lei",
+    "area": "Direito Civil",
+    "sourceFile": "lei12846.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12847",
+    "title": "Lei n.º 12.847/2013 (Sistema Nacional de Prevenção e Combate à Tortura; Comitê Nacional de Prevenção e Combate, etc.)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei12847.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12850",
+    "title": "Lei n.º 12.850/2013 (Define organização criminosa e dispõe sobre a investigação criminal)",
+    "type": "Lei",
+    "area": "Processo Penal",
+    "sourceFile": "lei12850.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "marcocivildainternet-12965",
+    "title": "Lei n.º 12.965/2014 (Marco Civil da Internet - Estabelece princípios, garantias, direitos e deveres)",
+    "type": "Lei",
+    "area": "Direito Digital",
+    "sourceFile": "marcocivildainternet-12965.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13060-2014",
+    "title": "Lei n.º 13.060/2014 (Uso de instrumentos de menor potencial ofensivo por agentes de segurança)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13060-2014.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "codigodeprocessocivil-cpc2015",
+    "title": "Lei n.º 13.105/2015 (Código de Processo Civil - CPC/2015)",
+    "type": "Código",
+    "area": "Direito Civil",
+    "sourceFile": "codigodeprocessocivil-cpc2015.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13140",
+    "title": "Lei n.º 13.140/2015 (Dispõe sobre a mediação entre particulares e autocomposição de conflitos no âmbito da Adm. Pública)",
+    "type": "Lei",
+    "area": "Direito Civil",
+    "sourceFile": "lei13140.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13146",
+    "title": "Lei n.º 13.146/2015 (Estatuto da Pessoa com Deficiência)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei13146.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13188",
+    "title": "Lei n.º 13.188/2015 (Direito de resposta/retificação do ofendido em matéria divulgada/transmitida por veículo de comunicação social)",
+    "type": "Lei",
+    "area": "Direito de Trânsito",
+    "sourceFile": "lei13188.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-13260-2016-terrorismo",
+    "title": "Lei n.º 13.260/2016 (Crime de terrorismo; disposições investigatórias e processuais)",
+    "type": "Lei",
+    "area": "Processo Penal",
+    "sourceFile": "lei-13260-2016-terrorismo.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13300",
+    "title": "Lei n.º 13.300/2016 (Processo e Julgamento dos Mandados de Injunção Individual e Coletivo)",
+    "type": "Lei",
+    "area": "Direito Digital",
+    "sourceFile": "lei13300.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13444",
+    "title": "Lei n.º 13.444/2017 (Dispõe sobre a Identificação Civil Nacional (ICN)",
+    "type": "Lei",
+    "area": "Direito Civil",
+    "sourceFile": "lei13444.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13445",
+    "title": "Lei n.º 13.445/2017 (Institui a Lei de Migração)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13445.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13460",
+    "title": "Lei n.º 13.460/2017 (Participação, proteção e defesa dos direitos dos usuários dos serviços públicos da administrção pública)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei13460.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-13-675-18-seguranca-publica",
+    "title": "Lei n.º 13.675/2018 (Organização e funcionamento dos órgãos de segurança pública; PNSPDS)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei-13-675-18-seguranca-publica.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lgpd",
+    "title": "Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD)",
+    "type": "Lei",
+    "area": "Direito Digital",
+    "sourceFile": "lgpd.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-13753",
+    "title": "Lei n.º 13.752/2018 (Subsídio dos Ministros do STF)",
+    "type": "Lei",
+    "area": "Direito Constitucional",
+    "sourceFile": "lei-13753.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-n-o-13-755-18-comercio-de-veicu",
+    "title": "Lei n.º 13.755/2018 (Programa Rota 2030; requisitos para comercialização de veículos no Brasil)",
+    "type": "Lei",
+    "area": "Direito de Trânsito",
+    "sourceFile": "lei-n-o-13-755-18-comercio-de-veicu.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-n-o-13-800-19-parcerias-com-a-a",
+    "title": "Lei n.º 13.800/2019 (Instrumentos de parceria e termos de execução de programas com a Adm.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-n-o-13-800-19-parcerias-com-a-a.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-13810-19-sancoes-terrorismo",
+    "title": "Lei n.º 13.810/2019 (Cumprimento de sanções impostas por resoluções do CSNU - Terrorismo)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-13810-19-sancoes-terrorismo.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13812-19-pessoas-desaparecidas",
+    "title": "Lei n.º 13.812/2019 (Política Nacional de Busca de Pessoas Desaparecidas; Cadastro Nacional)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13812-19-pessoas-desaparecidas.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-n-o-13-819-19-prev-ao-suicidio",
+    "title": "Lei n.º 13.819/2019 (Política Nacional de Prevenção da Automutilação e do Suicídio)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-n-o-13-819-19-prev-ao-suicidio.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13869",
+    "title": "Lei n.º 13.869/2019 (Lei do Abuso de Autoridade)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13869.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13874",
+    "title": "Lei n.º 13.874/2019 (Declaração de Direitos de Liberdade Econômica; garantias de livre mercado e outras providências)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13874.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13934",
+    "title": "Lei n.º 13.934/2019 (Contrato de desempenho; regula o art. 37, § 8.º, da CF/88)",
+    "type": "Ato",
+    "area": "Outros",
+    "sourceFile": "lei13934.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13966",
+    "title": "Lei n.º 13.966/2019 (Dispõe sobre o sistema de franquia empresarial e revoga a Lei n.º 8.955/1994 - Lei de Franquia)",
+    "type": "Lei",
+    "area": "Direito Empresarial",
+    "sourceFile": "lei13966.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13974",
+    "title": "Lei n.º 13.974/2020 (Dispõe sobre o Conselho de Atividades Financeiras - Coaf -, de que trata o art. 14 da Lei n.º 9.613/1998)",
+    "type": "Lei",
+    "area": "Direito Financeiro",
+    "sourceFile": "lei13974.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13979",
+    "title": "Lei n.º 13.979/2020 (Enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus)",
+    "type": "Lei",
+    "area": "Direito Internacional",
+    "sourceFile": "lei13979.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13986",
+    "title": "Lei n.º 13.986/2020 (Fundo Garantidor Solidário - FGS; patrimônio rural em afetação, Cédula Imobiliária Rural, subvenção etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13986.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13988",
+    "title": "Lei n.º 13.988/2020 (Transação resolutiva nas hipóteses que especifica; Altera as Leis n.º 13.464/17 e 10.522/02)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13988.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13989",
+    "title": "Lei n.º 13.989/2020 (Uso da telemedicina durante a crise causada pelo coronavírus - SARS-CoV-2)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13989.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13993",
+    "title": "Lei n.º 13.993/2020 (Proibição de exportações de produtos médicos, hospitalares e de higiene essenciais ao combate à COVID-19)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13993.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13997",
+    "title": "Lei n.º 13.997/2020 (Prorroga contratos por tempo determinado no âmbito do Ministério da Agricultura, Pecuária e Abastecimento)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13997.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13998",
+    "title": "Lei n.º 13.998/2020 (Mudanças no auxílio emergencial instituído pela Lei n.º 13.982/2020 e dá outras providências)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei13998.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13999",
+    "title": "Lei n.º 13.999/2020 (Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte - Pronampe)",
+    "type": "Lei",
+    "area": "Direito Empresarial",
+    "sourceFile": "lei13999.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14010",
+    "title": "Lei n.º 14.010/2020 (Regime Jurídico Emergencial e Transitório das relações de Direito Privado [RJET] no período da pandemia)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14010.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14016",
+    "title": "Lei n.º 14.016/2020 (Combate ao desperdício de alimentos; doação de excedentes de alimentos para o consumo humano)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14016.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14017",
+    "title": "Lei n.º 14.017/2020 (Ações emergenciais ao setor cultural durante o estado de calamidade pública - COVID-19)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14017.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14018",
+    "title": "Lei n.º 14.018/2020 (Auxílio financeiro às Instituições de Longa Permanência para Idosos - ILPIs, em razão da COVID-19)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei14018.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14020",
+    "title": "Lei n.º 14.020/2020 (Programa Emergencial de Manutenção do Emprego e da Renda; medidas complementares etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14020.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14021",
+    "title": "Lei n.º 14.021/2020 (Medidas de proteção social do contágio e disseminação da Covid-19 aos índígenas, quilombolas, pescadores)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14021.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14022",
+    "title": "Lei n.º 14.022/2020 (Medidas de enfrentamento à violência doméstica e familiar contra mulher, crianças, adolescentes, idosos etc.)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei14022.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14029",
+    "title": "Lei n.º 14.029/2020 (Transposição e reprogramação de saldos financeiros dos fundos de assistencia social dos Estados, DF e Munic.)",
+    "type": "Lei",
+    "area": "Direito Financeiro",
+    "sourceFile": "lei14029.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14030",
+    "title": "Lei n.º 14.030/2020 (Assembleias e reuniões das S.A, sociedades limitadas, sociedades cooperativas e entidades de representação)",
+    "type": "Lei",
+    "area": "Direito Empresarial",
+    "sourceFile": "lei14030.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14031",
+    "title": "Lei n.º 14.031/2020 (Tratamento tributário incidente sobre a variação cambial do valor de investimento realizado por instit. financeiras)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14031.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14043",
+    "title": "Lei n.º 14.043/2020 (Programa Emergencial de Suporte a Empregos; altera as leis n.ºs 9.430/1996 e 13.999/2020)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14043.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14046",
+    "title": "Lei n.º 14.046/2020 (Cancelamento de serviços, reservas e eventas dos setores de turismo e cultura)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14046.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14057",
+    "title": "Lei n.º 14.057/2020 (Acordo com credores para pagamento com desconto de precatórios e acordo terminativo de litígio - Covid-19)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14057.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14058",
+    "title": "Lei n.º 14.058/2020 (Operacionalização do pagamento do Benefício Emergencial de Preservação do Emprego e Renda, etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14058.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14063",
+    "title": "Lei n.º 14.063/2020 (Assinaturas eletrônicas em interações com entes públicos, atos de pessoas jurídicas e em questões de saúde etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14063.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14065",
+    "title": "Lei n.º 14.065/2020 (Autoriza pagamentos antecipados nas licitações e contratos realizados pela Adm. Pública na pandemia)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei14065.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14069",
+    "title": "Lei n.º 14.069/2020 (Cria o Cadastro Nacional de Pessoas Condenadas por Crime de Estupro)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei14069.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14075",
+    "title": "Lei n.º 14.075/2020 (Dispõe sobre a conta do tipo poupança social digital; altera as Leis n.ºs 13.982/2020 e 14.058/2020)",
+    "type": "Lei",
+    "area": "Direito Digital",
+    "sourceFile": "lei14075.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14121",
+    "title": "Lei n.º 14.121/2021 (Autoriza o Poder Executivo federal a aderir ao Acesso Global de Vacinas Covid-19 - Covax Facility)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14121.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14124",
+    "title": "Lei n.º 14.124/2021 (Aquisição de vacinas e insumos Covid-19; contratação de bens e serviços de logística, tecnologia, comunicação)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14124.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14125",
+    "title": "Lei n.º 14.125/2021 (Responsabilidade civil relativa a eventos adversos pós vacinação contra Covid-19; aquisição, distribuição etc.)",
+    "type": "Lei",
+    "area": "Direito Civil",
+    "sourceFile": "lei14125.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14254",
+    "title": "Lei n.º 14.126/2021 (Acompanhamento para educandos com dislexia ou Transtorno do Deficit de Atenção com Hiperatividade)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei14254.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14126",
+    "title": "Lei n.º 14.126/2021 (Classifica a visão monocular como deficiência sensorial, do tipo visual).",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei14126.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14128",
+    "title": "Lei n.º 14.128/2021 (Compensação financeira a ser paga pela União aos profissionais e trabalhadores de saúde pela COVID-19)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14128.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14129",
+    "title": "Lei n.º 14.129/2021 (Dispõe sobre princípios, regras e instrumentos para o Governo Digital; altera Leis 7.116/1983, 12.527/2011 etc.)",
+    "type": "Lei",
+    "area": "Direito Digital",
+    "sourceFile": "lei14129.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14133",
+    "title": "Lei n.º 14.133/2021 (Lei de Licitações e Contratos Administrativos)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei14133.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14192",
+    "title": "Lei n.º 14.142/2021 (Combate à violência contra a mulher na política; crimes de divulgação de fato/vídeo com conteúdo inverídico)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei14192.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14148",
+    "title": "Lei n.º 14.148/2021 (Ações emergenciais ao setor de eventos; Programa Emergencial de Retomada do Setor de Eventos; PGSC)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14148.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14149",
+    "title": "Lei n.º 14.149/2021 (Formulário Nacional de Avaliação de Risco, aplicado à mulher vítima de violência doméstica)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14149.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14151",
+    "title": "Lei n.º 14.151/2021 (Afastamento da empregada gestante das atividades de trabalho presencial durante a pandemia de COVID-19)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14151.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14152",
+    "title": "Lei n.º 14.152/2021 (Extensão do prazo de validade de prescrições médicas e pedidos de exames complementares; gestantes etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14152.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14157",
+    "title": "Lei n.º 14.157/2021 (Implementação da cobrança pelo uso de rodovias por meio de sistemas de livre passagem; altera o CTB etc.)",
+    "type": "Código",
+    "area": "Direito de Trânsito",
+    "sourceFile": "lei14157.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14188",
+    "title": "Lei n.º 14.188/2021 (Programa de cooperação Sinal Vermelho contra a Violência Doméstica; altera a Lei Maria da Penha e o CP)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14188.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14193",
+    "title": "Lei n.º 14.193/2021 (Sociedade Anônima do Futebol; constituição, governança, controle e transparência, financiamento etc.)",
+    "type": "Constituição",
+    "area": "Direito Constitucional",
+    "sourceFile": "lei14193.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14206",
+    "title": "Lei n.º 14.206/2021 (Institui o Documento Eletrônico de Transporte - DT-e; altera a Lei n.º 11.442/07, a Lei n.º 13.703/18 etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14206.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14216",
+    "title": "Lei n.º 14.216/2021 (Suspensão de cumprimento de medidas de desocupação ou remoção forçada coletiva em imóvel; acordos etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14216.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "14217",
+    "title": "Lei n.º 14.217/2021 (Aquisição de bens e insumos; contratação de serviços, inclusive de engenharia, para combate à COVID-19)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "14217.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14228",
+    "title": "Lei n.º 14.288/2021 (Proibição da eliminação de cães e gatos pelos órgãos de controle de zoonoses, canis públicos etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14228.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14344",
+    "title": "Lei n.º 14.344/2022 (Prevenção e enfrentamento da violência doméstica e familiar contra a criança e o adolescente)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei14344.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14534",
+    "title": "Lei n.º 14.534/2023 (Número único para documentos; CPF com número suficiente para identificação, etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14534.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei2889",
+    "title": "Lei n.º 2.889/1956 (Crime de genocídio)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei2889.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei4595",
+    "title": "Lei n.º 4.595/1964 (Política e as Instituições Monetárias, Bancárias e Creditícias; cria o Conselho Monetário Nacional)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei4595.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei4717-65-acao-popular",
+    "title": "Lei n.º 4.717/1965 (Lei da Ação Popular)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei4717-65-acao-popular.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei4729-1965-sonegacao-fiscal",
+    "title": "Lei n.º 4.729/1965 (Crime de sonegação fiscal)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei4729-1965-sonegacao-fiscal.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei4737",
+    "title": "Lei n.º 4.737/1965 (Código Eleitoral)",
+    "type": "Código",
+    "area": "Direito Eleitoral",
+    "sourceFile": "lei4737.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei4898",
+    "title": "Lei n.º 4.898/1965 (Direito de representação; processo de responsabilidade civil/penal; abuso de autoridade)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei4898.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei5143",
+    "title": "Lei n.º 5.143/1966 (Imposto sobre Operações Financeiras, regula a respectiva cobrança e aplicação de reservas monetárias)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei5143.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei6567",
+    "title": "Lei n.º 6.567/1978 (Regime especial de exploração e aproveitamento das substâncias minerais que especifica)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei6567.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei6830",
+    "title": "Lei n.º 6.830/1980 (Cobrança judicial da Dívida Ativa da Fazenda Pública, e dá outras providências)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei6830.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei7115-83",
+    "title": "Lei n.º 7.115/1983 (Prova documental - declarações)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei7115-83.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei7116",
+    "title": "Lei n.º 7.116/1983 (Validade nacional das Carteiras de Identidade; regula sua expedição, etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei7116.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-n-o-7-170-83-seguranca-nacional",
+    "title": "Lei n.º 7.170/1983 (Crimes contra a segurança nacional, a ordem política e social)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei-n-o-7-170-83-seguranca-nacional.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-7347-85-acao-civil-publica",
+    "title": "Lei n.º 7.347/1985 (Lei da Ação Civil Pública - LACP)",
+    "type": "Lei",
+    "area": "Direito Civil",
+    "sourceFile": "lei-7347-85-acao-civil-publica.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-7492-86-crimes-sist-financeiro",
+    "title": "Lei n.º 7.492/1986 (Crimes Contra o Sistema Financeiro Nacional)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei-7492-86-crimes-sist-financeiro.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei7560",
+    "title": "Lei n.º 7.560/1986 (FUNCAB; bens apreendidos e adquiridos com produtos do tráfico de drogas)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei7560.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei7716",
+    "title": "Lei n.º 7.716/1989 (Preconceito de raça ou de cor)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei7716.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei7853",
+    "title": "Lei n.º 7.853/1989 (Portadores de deficiência; integração social; Coord. Nac.; tutela jurisdicional; MP; crimes etc.)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei7853.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei7960-89-prisao-temporaria",
+    "title": "Lei n.º 7.960/1989 (Prisão temporária)",
+    "type": "Lei",
+    "area": "Processo Penal",
+    "sourceFile": "lei7960-89-prisao-temporaria.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8009",
+    "title": "Lei n.º 8.009/1990 (Dispõe sobre a impenhorabilidade do bem de família)",
+    "type": "Lei",
+    "area": "Direito Civil",
+    "sourceFile": "lei8009.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-8038-90",
+    "title": "Lei n.º 8.038/1990 (Normas procedimentais para processos perante o STJ e o STF)",
+    "type": "Lei",
+    "area": "Direito Constitucional",
+    "sourceFile": "lei-8038-90.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8072-leidoscrimeshediondos",
+    "title": "Lei n.º 8.072/1990 (Lei dos Crimes Hediondos)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei8072-leidoscrimeshediondos.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "direito-do-consumidor",
+    "title": "Lei n.º 8.078/1990 (Código de Defesa do Consumidor)",
+    "type": "Código",
+    "area": "Direito do Consumidor",
+    "sourceFile": "direito-do-consumidor.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8137-90",
+    "title": "Lei n.º 8.137/1990 (Crimes contra a ordem tributária, econômica e contra as relações de consumo)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei8137-90.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8171",
+    "title": "Lei n.º 8.171/1991 (Política Agrícola)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei8171.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8245",
+    "title": "Lei n.º 8.245/1991 (Dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei8245.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8257",
+    "title": "Lei n.º 8.257/1991 (Dispõe sobre a expropriação das glebas onde se localizem culturas ilegais de plantas psicotrópicas)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei8257.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8397",
+    "title": "Lei n.º 8.397/1992 (Institui medida cautelar fiscal e dá outas providências)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei8397.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8427",
+    "title": "Lei n.º 8.427/1992 (Dispõe sobre a concessão de subvenção econômica nas operações de crédito rural)",
+    "type": "Lei",
+    "area": "Direito Financeiro",
+    "sourceFile": "lei8427.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8429-improbidadeadministrativa",
+    "title": "Lei n.º 8.429/1992 (Lei de Improbidade Administrativa - LIA)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei8429-improbidadeadministrativa.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-n-o-8-437-92-medidas-cautelares",
+    "title": "Lei n.º 8.437/1992 (Concessão de medidas cautelares contra atos do Poder Público)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-n-o-8-437-92-medidas-cautelares.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8560",
+    "title": "Lei n.º 8.560/1992 (Regula a investigação de paternidade dos filhos havidos fora do casamento e dá outras providências)",
+    "type": "Lei",
+    "area": "Processo Penal",
+    "sourceFile": "lei8560.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8625",
+    "title": "Lei n.º 8.625/1993 (Lei Orgânica Nacional do Ministério Público - LONMP)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei8625.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8666",
+    "title": "Lei n.º 8.666/1993 (Licitações e contratos da Administração Pública; regulamenta o art. 37, inc. XIII, da CF/88)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei8666.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8742",
+    "title": "Lei n.º 8.742/1993 (Dispõe sobre a organização da Assistência Social e dá outras providências)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei8742.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8745",
+    "title": "Lei n.º 8.745/1993 (Contratação por tempo determinado para necessidade temporária e excepcional do interesse público)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei8745.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-n-o-8-906-94-estatuto-da-advoca",
+    "title": "Lei n.º 8.906/1994 (Estatuto da Advocacia e a Ordem dos Advogados do Brasil - EAOAB)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-n-o-8-906-94-estatuto-da-advoca.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei8934",
+    "title": "Lei n.º 8.934/1994 (Dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins e dá outras providências)",
+    "type": "Lei",
+    "area": "Direito Empresarial",
+    "sourceFile": "lei8934.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9096",
+    "title": "Lei n.º 9.096/1995 (Dispõe sobre partidos políticos; regulamenta os arts. 17 e 14, § 3.º, inc. V, ambos da CF/88)",
+    "type": "Lei",
+    "area": "Direito Eleitoral",
+    "sourceFile": "lei9096.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "jec",
+    "title": "Lei n.º 9.099/1995 (Juizados Especiais Cíveis e Criminais)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "jec.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9279",
+    "title": "Lei n.º 9.279/1996 (Regula direitos e obrigações relativos à propriedade industrial)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei9279.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "intercepcaotelefonica9296",
+    "title": "Lei n.º 9.296/1996 (Interceptação telefônica)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "intercepcaotelefonica9296.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9307",
+    "title": "Lei n.º 9.307/1996 (Dispõe sobre a arbitragem)",
+    "type": "Lei",
+    "area": "Direito Civil",
+    "sourceFile": "lei9307.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9430",
+    "title": "Lei n.º 9.430/1996 (Legislação tributária federal, contribuições para seguridade social, processo administrativo de consulta etc.)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei9430.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9454",
+    "title": "Lei n.º 9.454/1997 (Número único de Registro de Identidade Civil e dá outras providêncis)",
+    "type": "Lei",
+    "area": "Direito Civil",
+    "sourceFile": "lei9454.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-9455-crime-de-tortura",
+    "title": "Lei n.º 9.455/1997 (Crime de tortura)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei-9455-crime-de-tortura.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9469",
+    "title": "Lei n.º 9.469/1997 (Regulamenta o inc. IV do art. 4.º da Lei Compl n.º 73/93; acordos e transações para prevenir litícios etc.)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei9469.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9472",
+    "title": "Lei n.º 9.472/1997 (Dispõe sobre organização dos serviços de telecomunicações; criação e funcionamento de órgão regulador)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei9472.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9503-ctb",
+    "title": "Lei n.º 9.503/1997 (Código de Trânsito Brasileiro - CTB)",
+    "type": "Código",
+    "area": "Direito de Trânsito",
+    "sourceFile": "lei9503-ctb.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9504",
+    "title": "Lei n.º 9.504/1997 (Normas para as eleições)",
+    "type": "Lei",
+    "area": "Direito Eleitoral",
+    "sourceFile": "lei9504.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-n-o-9-507-97-habeas-data",
+    "title": "Lei n.º 9.507/1997 (Habeas Data)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-n-o-9-507-97-habeas-data.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "leicrimesambientais",
+    "title": "Lei n.º 9.605/1998 (Lei dos crimes ambientais; sanções penais e administrativas)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "leicrimesambientais.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9608",
+    "title": "Lei n.º 9.608/1998 (Dispõe sobre o serviço voluntário e dá outras providências)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei9608.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9609",
+    "title": "Lei n.º 9.609/1998 (Proteção da propriedade intelectual de programa de computador e sua comercialização no País)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei9609.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9610",
+    "title": "Lei n.º 9.610/1998 (Altera, atualiza e consolida a legislação sobre direitos autorais e dá outras providências)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei9610.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9613",
+    "title": "Lei n.º 9.613/1998 (Lavagem ou ocultação de bens, direitos e valores; cria o COAF)",
+    "type": "Lei",
+    "area": "Direito Financeiro",
+    "sourceFile": "lei9613.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-9615",
+    "title": "Lei n.º 9.615/1998 (Normas Gerais sobre desporto)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-9615.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9656",
+    "title": "Lei n.º 9.656/1998 (Planos e seguros privados de assistência à saúde)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei9656.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9784",
+    "title": "Lei n.º 9.784/1999 (Regula o processo administrativo no âmbito da Administração Pública Federal)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei9784.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "copia-lei-14-129-21-governo-digital",
+    "title": "Lei n.º 9.800/1999 (Permite às partes a utilização de sistema de transmissão de dados para a prática de atos processuais)",
+    "type": "Lei",
+    "area": "Direito Digital",
+    "sourceFile": "cópia-lei-14-129-21-governo-digital.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-9807-protecao-de-testemunhas",
+    "title": "Lei n.º 9.807/1999 (Proteção a vítimas e a testemunhas ameaçadas)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-9807-protecao-de-testemunhas.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9868-99",
+    "title": "Lei n.º 9.868/1999 (Processo e julgamento da ADI e da ADC perante o STF)",
+    "type": "Lei",
+    "area": "Direito Constitucional",
+    "sourceFile": "lei9868-99.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei9873",
+    "title": "Lei n.º 9.873/1999 (Prazo de prescrição da ação punitiva pela Administração Pública Federal, direta e indireta)",
+    "type": "Lei",
+    "area": "Direito Administrativo",
+    "sourceFile": "lei9873.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12318",
+    "title": "Lei nº 12.318/2010 (Dispõe sobre a alienação parental e altera o art. 236 da Lei n. 8.069, de 13 de julho de 1990)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei12318.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12594",
+    "title": "Lei nº 12.594/2012 (Sistema Nacional de Atendimento Socioeducativo - Sinase; Execução de medidas socioeducativas)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei12594.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei12852",
+    "title": "Lei nº 12.852/2013 (Estatuto da Juventude; direitos dos jovens, princípios e diretrizes das políticas públicas; SINAJUVE)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei12852.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "eca",
+    "title": "Lei nº 13.257/2016 (Marco Legal da Primeira Infância; políticas púbilicas para primeira infâcia, altera o ECA e outras leis relacionadas)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "eca.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei-13431-2017-garantia-de-direitos",
+    "title": "Lei nº 13.431/2017 (Sistema de Garantia de Direitos do menor de idade vítima ou testemunha)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei-13431-2017-garantia-de-direitos.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei13985",
+    "title": "Lei nº 13.985/2020 (Pensão especial para crianças com Síndrome Congênita do Zika Vírus; Benefício de Prestação Continuada)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "lei13985.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14509",
+    "title": "Lei nº 14.509/2022 (Percentual máximo para contratação de operações de crédito com desconto em folha de pagamento, etc.)",
+    "type": "Lei",
+    "area": "Direito Financeiro",
+    "sourceFile": "lei14509.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14583",
+    "title": "Lei nº 14.583/2023 (Difusão por órgãos públicos dos direitos fundamentais e dos dieitos humanos)",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "lei14583.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "lei14717",
+    "title": "Lei nº 14.717/2023 (Pensão especial aos filhos e dependentes crianças ou adolescentes, órfãos em razão do crime de feminicídio)",
+    "type": "Lei",
+    "area": "Direito Penal",
+    "sourceFile": "lei14717.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "copia-lei-14-717-2023-pensao-especial",
+    "title": "Lei nº 15.247/2025 (Dispõe sobre o Compromisso Nacional Criança Alfabetizada (Compromisso)",
+    "type": "Lei",
+    "area": "Tutelas Especiais",
+    "sourceFile": "cópia-lei-14-717-2023-pensão-especial.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mapadosite",
+    "title": "Mapa do site (índice)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "mapadosite.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp1021",
+    "title": "Medida Provisória n.º 1.021/2020 (Salário mínimo para o ano de 2021)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp1021.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp904",
+    "title": "Medida Provisória n.º 904/2019 (Dispõe sobre a extinção do DPVAT e do DPEM)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp904.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp996",
+    "title": "Medida Provisória n.º 966/2020 (Institui o Programa Casa Verde e Amarela)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp996.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp1000",
+    "title": "MP n.º 1.000/2020 (Institui o auxílio emergencial residual para enfrentamento da emergência de saúde pública - COVID-19)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp1000.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp1006",
+    "title": "MP n.º 1.006/2020 (Aumenta a margem de crédito consignado dos titulares de benefícios de aposentadoria e pensão do RGPS)",
+    "type": "Medida Provisória",
+    "area": "Direito Financeiro",
+    "sourceFile": "mp1006.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp1026",
+    "title": "MP n.º 1.026/2021 (Medidas à aquisição de vacinas, insumos, bens e serviços de logística, tecnologia etc, no combate à COVID-19)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp1026.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp1039",
+    "title": "MP n.º 1.039/2021 (Auxílio Emergencial 2021 para enfrentamento da emergência de saúde pública Covid-19)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp1039.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp2200-2",
+    "title": "MP n.º 2.200-2/2001 (Infra-Estrutura de Chaves Públicas Brasileira - ICP-Brasil; Instituto Nacional de Tecnologia da Informação)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp2200-2.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp928",
+    "title": "MP n.º 928/2020 (Altera a Lei n.º 13.979/2020; acesso à informação; prazos processuais e prescricionais; atendimento presencial)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp928.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp931",
+    "title": "MP n.º 931/2020 (Altera o Código Civil; a Lei n.º 5.764/71 e a Lei n.º 6.404/76; prorrogação de prazos)",
+    "type": "Código",
+    "area": "Direito Civil",
+    "sourceFile": "mp931.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp934",
+    "title": "MP n.º 934/2020 (Ensino básico e superior - ano letivo)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp934.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp944",
+    "title": "MP n.º 944/2020 (Institui o Programa Emergencial de Suporte a Empregos)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp944.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp945",
+    "title": "MP n.º 945/2020 (Medidas decorrentes da Covid-19 no setor portuário e cessão de pátios sob administração militar)",
+    "type": "Medida Provisória",
+    "area": "Direito Militar",
+    "sourceFile": "mp945.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp948",
+    "title": "MP n.º 948/2020 (Cancelamento de serviços, reservas e eventos dos setores de turismo e cultura)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp948.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp951",
+    "title": "MP n.º 951/2020 (Compras públicas, sanções em matéria de licitação e certificação digital)",
+    "type": "Medida Provisória",
+    "area": "Direito Digital",
+    "sourceFile": "mp951.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp954",
+    "title": "MP n.º 954/2020 (Compartilhamento de dados por empresas de telecomunicações prestadoras de serviço telefônico)",
+    "type": "Medida Provisória",
+    "area": "Direito Digital",
+    "sourceFile": "mp954.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp958",
+    "title": "MP n.º 958/2020 (Normas para facilitação do acesso ao crédito e mitigação dos impactos econômicos da pandemia de coronavírus)",
+    "type": "Medida Provisória",
+    "area": "Direito Internacional",
+    "sourceFile": "mp958.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp959",
+    "title": "MP n.º 959/2020 (Benefício Emergencial de Preservação do Emprego e Renda; benefício emergencial que trata a MP n.º 936/2020)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp959.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp961",
+    "title": "MP n.º 961/2020 (Pagamentos antecipados nas licitações e contratos, adequa limites de dispensa de licitação; uso do RDC)",
+    "type": "Medida Provisória",
+    "area": "Direito Administrativo",
+    "sourceFile": "mp961.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp966",
+    "title": "MP n.º 966/2020 (Responsabilização de agentes públicos por ação e omissão em atos relacionados com a pandemia - COVID-19)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp966.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp975",
+    "title": "MP n.º 975/2020 (Programa Emergencial de Acesso a Crédito e altera a Lei n.º 12.087/2009, e a Lei n.º 13.999/2020)",
+    "type": "Medida Provisória",
+    "area": "Direito Financeiro",
+    "sourceFile": "mp975.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp983",
+    "title": "MP n.º 983/2020 (Assinaturas eletrônicas em comunicações com entes públicos e questões de saúde; licenças de softwares)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp983.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "mp984",
+    "title": "MP n.º 984/2020 (Altera a Lei n.º 9.615/98, que institui normas gerais sobre o desporto em razão da emergência de saúde pública)",
+    "type": "Medida Provisória",
+    "area": "Outros",
+    "sourceFile": "mp984.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "of17-2020",
+    "title": "Ofício-circular n.º 17/2020-CGJ-TJ/RS (Prisão domiciliar; recomentações; análises caso a caso; registros individuais no SEEU)",
+    "type": "Documento",
+    "area": "Processo Penal",
+    "sourceFile": "of17-2020.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "oficio27",
+    "title": "Ofício-circular n.º 27/2020-CGJ-TJ/RS (Covid-19; prisão preventiva, liberdade provisória e medidas cautelares; vista ao MP)",
+    "type": "Documento",
+    "area": "Processo Penal",
+    "sourceFile": "oficio27.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "oficio32",
+    "title": "Ofício-circular n.º 32/2020-CGJ-TJ/RS (Interposição de recursos e/ou medidas relacionadas a decisões em matérias urgentes)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "oficio32.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portariainterministerial7",
+    "title": "Portaria Interministerial n.º 7/2020 (Medidas de enfrentamento da emergência de saúde pública - COVID-19 - no âmbito prisional)",
+    "type": "Portaria",
+    "area": "Direito Penitenciário",
+    "sourceFile": "portariainterministerial7.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portaria1222",
+    "title": "Portaria n.º 1.222/2019 - Comando do Exército (Aferição e listagem de calibres nominais de armas de fogo e munições)",
+    "type": "Portaria",
+    "area": "Outros",
+    "sourceFile": "portaria1222.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portaria155-2013-depen-visitas",
+    "title": "Portaria n.º 155/2013 do DEPEN (Regulamento de visitas aos presos em Penitenciárias Federais) (Revogada)",
+    "type": "Portaria",
+    "area": "Direito Penitenciário",
+    "sourceFile": "portaria155-2013-depen-visitas.html",
+    "status": "Histórica/Revogada",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portaria157-2019",
+    "title": "Portaria n.º 157/2019 do Min. da Justiça e Segurança Pública (Visita social aos presos nos estabelecimentos federais)",
+    "type": "Portaria",
+    "area": "Direito Administrativo",
+    "sourceFile": "portaria157-2019.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portaria160-2014-susepe-visitas",
+    "title": "Portaria n.º 160/2014 - GAB/SUB (Regulamento Geral para Ingresso de Visitas e Materiais)",
+    "type": "Portaria",
+    "area": "Outros",
+    "sourceFile": "portaria160-2014-susepe-visitas.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portaria188",
+    "title": "Portaria n.º 188/2020-MS (Declara Emergência em Saúde Pública de Importância Nacional - ESPIN; infecção por Coronavírus)",
+    "type": "Portaria",
+    "area": "Outros",
+    "sourceFile": "portaria188.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portaria372detranrs",
+    "title": "Portaria n.º 372/2019 do Detran/RS (Transferência de responsabilidade de veículos envolvidos em crimes da Lei de Drogas)",
+    "type": "Portaria",
+    "area": "Direito Penal",
+    "sourceFile": "portaria372detranrs.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portaria-441-2018-do-detran-rs",
+    "title": "Portaria n.º 441/2018 do Detran/RS (Liberação de veículos removidos nos CRDs)",
+    "type": "Portaria",
+    "area": "Direito de Trânsito",
+    "sourceFile": "portaria-441-2018-do-detran-rs.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portaria54-2016",
+    "title": "Portaria n.º 54/2016 do DEPEN (Regulamento de visitas aos presos em Penitenciárias Federais) (Revogada)",
+    "type": "Portaria",
+    "area": "Direito Penitenciário",
+    "sourceFile": "portaria54-2016.html",
+    "status": "Histórica/Revogada",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "portaria718mjsp",
+    "title": "Portaria n.º 718/2017 do Ministério da Justiça e Segurança Pública (Visita íntima no interior das Penitenciárias Federais)",
+    "type": "Portaria",
+    "area": "Direito Penitenciário",
+    "sourceFile": "portaria718mjsp.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "hr724",
+    "title": "Preventing Animal Cruelty and Torture Act (PACT Act)",
+    "type": "Documento",
+    "area": "Direito Ambiental",
+    "sourceFile": "hr724.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "blank-1",
+    "title": "Processo Penal e Investigação Criminal",
+    "type": "Documento",
+    "area": "Processo Penal",
+    "sourceFile": "blank-1.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "prov-31-2003-pgj-rs-procuradorias",
+    "title": "Provimento n.º 31/2003-PGJ/RS (Regimento Interno das Procuradorias de Justiça e atribuições)",
+    "type": "Regimento",
+    "area": "Outros",
+    "sourceFile": "prov-31-2003-pgj-rs-procuradorias.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "provimento32",
+    "title": "Provimento n.º 32/2020-CGJ TJ/RS (Formação do processo de execução criminal - PEC; altera o art. 941 da Consol. Norm. Jud.)",
+    "type": "Documento",
+    "area": "Processo Penal",
+    "sourceFile": "provimento32.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "recomendacao44",
+    "title": "Recomendação n.º 44/2013 do CNJ - Atividades educacionais e remição de pena pelo estudo e leitura.",
+    "type": "Lei",
+    "area": "Outros",
+    "sourceFile": "recomendação44.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "recomendacao57",
+    "title": "Recomendação n.º 57/2017-CNMP (Atuação dos membros do Ministério Público nos Tribunais)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "recomendacao57.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "recomendacao62-2020",
+    "title": "Recomendação n.º 62/2020-CNJ (Medidas preventivas à propagação do COVID-19 no âmbito dos sistemas penal e socioeducativo)",
+    "type": "Documento",
+    "area": "Direito Penal",
+    "sourceFile": "recomendacao62-2020.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "recomendacao91",
+    "title": "Recomendação n.º 91/2021-CNJ (Medidas preventivas adicionais à propagação da infecção pelo novo Coronavírus e variantes)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "recomendação91.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "regimento-interno-do-tj-rs",
+    "title": "Regimento Interno do TJ/RS",
+    "type": "Regimento",
+    "area": "Outros",
+    "sourceFile": "regimento-interno-do-tj-rs.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "cnj-res113-2010",
+    "title": "Res. n.º 113/2010 CNJ (Procedimento da execução da pena privativa de liberdade e med. de seg.)",
+    "type": "Resolução",
+    "area": "Outros",
+    "sourceFile": "cnj-res113-2010.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "res280cnj",
+    "title": "Res. n.º 280/2019 CNJ (Sistema Eletrônico de Execução Unificado – SEEU e dispõe sobre sua governança)",
+    "type": "Resolução",
+    "area": "Outros",
+    "sourceFile": "res280cnj.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "res329",
+    "title": "Res. n.º 329/2020 do CNJ (Regulamenta critérios para realização de audiências e outros atos processuais por videoconferência)",
+    "type": "Resolução",
+    "area": "Outros",
+    "sourceFile": "res329.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "resolucao414",
+    "title": "Res. n.º 414/2021 do CNJ (Diretrizes e quesitos para exames de corpo de delito caso haja indícios de tortura ou tratamentos cruéis)",
+    "type": "Resolução",
+    "area": "Direito Penal",
+    "sourceFile": "resolução414.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "res4322013",
+    "title": "Res. n.º 432/2013 do CONTRAN (Fiscalização do consumo de álcool ou outra subst. psicoativa)",
+    "type": "Resolução",
+    "area": "Outros",
+    "sourceFile": "res4322013.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "resolucao5",
+    "title": "Resolução n.º 005/2020-P TJ/RS (Readequação das atividade do Sistema Diferenciado de Atendimento de Urgência no TJ/RS)",
+    "type": "Resolução",
+    "area": "Outros",
+    "sourceFile": "resolução5.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "res0198tjrs",
+    "title": "Resolução n.º 1/98 do TJ/RS (Órgãos e competências)",
+    "type": "Resolução",
+    "area": "Outros",
+    "sourceFile": "res0198tjrs.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "res-181-2017-cnmp",
+    "title": "Resolução n.º 181/2017 do CNMP (Procedimento investigatório a cargo do Ministério Público)",
+    "type": "Resolução",
+    "area": "Processo Penal",
+    "sourceFile": "res-181-2017-cnmp.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "resolucao62",
+    "title": "Resolução n.º 210/2020-CNMP (Uniformiza no âmbito do MPU e dos MPEs medidas de prevenção à COVID-19)",
+    "type": "Resolução",
+    "area": "Outros",
+    "sourceFile": "resolucao62.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "res317",
+    "title": "Resolução n.º 317/2020-CNJ (Perícias em meios eletrônicos em ações que discutem benefícios previdenciários)",
+    "type": "Resolução",
+    "area": "Outros",
+    "sourceFile": "res317.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "res-n-o-56-2010-do-cnmp-trabalho",
+    "title": "Resolução n.º 56/2010 do CNMP (Uniformização das inspeções prisionais por membros do MP)",
+    "type": "Resolução",
+    "area": "Outros",
+    "sourceFile": "res-n-o-56-2010-do-cnmp-trabalho.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "resolucao672stf",
+    "title": "Resolução n.º 672/2020 do STF (Permite o uso de videoconferência nas sessões de julgamento presencial)",
+    "type": "Resolução",
+    "area": "Direito Constitucional",
+    "sourceFile": "resolucao672stf.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "sumulasstj",
+    "title": "Súmulas do Superior Tribunal de Justiça (STJ)",
+    "type": "Súmula",
+    "area": "Direito Constitucional",
+    "sourceFile": "sumulasstj.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "sumulasdostf",
+    "title": "Súmulas do Supremo Tribunal Federal (STF)",
+    "type": "Súmula",
+    "area": "Direito Constitucional",
+    "sourceFile": "sumulasdostf.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "sumulasvinculantesstf",
+    "title": "Súmulas Vinculantes do Supremo Tribunal Federal (STF)",
+    "type": "Súmula",
+    "area": "Direito Constitucional",
+    "sourceFile": "sumulasvinculantesstf.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "tutelas-especiais-idosos-deficienci",
+    "title": "Tutelas Especiais (Idosos, Deficiências, Acessibilidade etc.)",
+    "type": "Documento",
+    "area": "Tutelas Especiais",
+    "sourceFile": "tutelas-especiais-idosos-deficienci.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  },
+  {
+    "id": "vademecumonline",
+    "title": "Vade Mecum On-line DireitoHD (índice)",
+    "type": "Documento",
+    "area": "Outros",
+    "sourceFile": "vademecumonline.html",
+    "status": "A conferir",
+    "importStatus": "Disponível no acervo"
+  }
+]
