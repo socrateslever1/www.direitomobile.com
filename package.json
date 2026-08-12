@@ -1,25 +1,23 @@
 {
-  "name": "www.direitohd.com",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "direito-mobile",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
   "scripts": {
-    "dev": "live-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "catalog": "node scripts/build-catalog.mjs",
+    "dev": "vite",
+    "build": "npm run catalog && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/socrateslever1/www.direitomobile.com.git"
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/socrateslever1/www.direitomobile.com/issues"
-  },
-  "homepage": "https://github.com/socrateslever1/www.direitomobile.com#readme",
   "devDependencies": {
-    "live-server": "^1.2.2"
+    "vitest": "latest"
   }
 }
