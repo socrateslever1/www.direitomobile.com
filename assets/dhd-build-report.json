@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-08-13T03:02:28.660Z",
+  "files": 539,
+  "skipped": 13,
+  "docsDir": "assets\\dhd-docs",
+  "catalog": "assets\\dhd-site-index.js",
+  "blocks": 157701,
+  "articles": 19059,
+  "largest": [
+    {
+      "path": "cpp-v1.html",
+      "title": "Decreto-lei n.º 3.689/1941 (CPP Anotado - Art. 1.º ao 393)",
+      "chars": 2290056,
+      "blocks": 7158,
+      "articles": 426
+    },
+    {
+      "path": "cf88.html",
+      "title": "DireitoHD | Constituição Federal de 1988 (CF/88)",
+      "chars": 1493374,
+      "blocks": 6559,
+      "articles": 278
+    },
+    {
+      "path": "cp-v2.html",
+      "title": "Decreto-lei n.º 2.848/1940 (Código Penal Anotado - Art. 121 ao 361)",
+      "chars": 1205446,
+      "blocks": 5114,
+      "articles": 311
+    },
+    {
+      "path": "cpp-v2.html",
+      "title": "Decreto-lei n.º 3.689/41 (CPP Anotado - Art. 394 ao 811)",
+      "chars": 1140421,
+      "blocks": 4190,
+      "articles": 411
+    },
+    {
+      "path": "cp-v1.html",
+      "title": "Decreto-lei n.º 2.848/1940 (Código Penal Anotado - Art. 1.º ao 120)",
+      "chars": 1106990,
+      "blocks": 3816,
+      "articles": 128
+    },
+    {
+      "path": "lep-v2.html",
+      "title": "Lei n.º 7.210/84 - LEP Anotada (Art. 105 ao Art. 204)",
+      "chars": 1018825,
+      "blocks": 3278,
+      "articles": 124
+    },
+    {
+      "path": "codigo-civil-ncc.html",
+      "title": "Código Civil (CC/2002) | DireitoHD",
+      "chars": 967764,
+      "blocks": 5391,
+      "articles": 1007
+    },
+    {
+      "path": "codigodeprocessocivil-cpc2015.html",
+      "title": "Código de Processo Civil (CPC/2015) | DireitoHD",
+      "chars": 954804,
+      "blocks": 5510,
+      "articles": 999
+    },
+    {
+      "path": "lei11343.html",
+      "title": "Lei n.º 11.343/2006 - Lei de Drogas",
+      "chars": 773017,
+      "blocks": 2500,
+      "articles": 104
+    },
+    {
+      "path": "lep-v1.html",
+      "title": "Lei n.º 7.210/84 - LEP Anotada (Art. 1.º ao Art. 104)",
+      "chars": 705064,
+      "blocks": 2633,
+      "articles": 118
+    },
+    {
+      "path": "lei9503-ctb.html",
+      "title": "DireitoHD | Lei n.º 9.503/1997 - Código de Trânsito Brasileiro",
+      "chars": 588824,
+      "blocks": 3332,
+      "articles": 390
+    },
+    {
+      "path": "eca.html",
+      "title": "Lei n.º 8.069/90 (ECA - Estatuto da Infância e da Juventude)",
+      "chars": 406556,
+      "blocks": 2205,
+      "articles": 325
+    }
+  ]
+}

@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build:data": "node tools/build-dhd-data.js",
     "dev": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/socrateslever1/www.direitomobile.com#readme",
   "devDependencies": {
+    "cheerio": "^1.2.0",
     "live-server": "^1.2.2"
   }
 }
