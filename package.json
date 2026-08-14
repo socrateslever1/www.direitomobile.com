@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build:data",
+    "build": "npm run build:data && npm run build:dist",
     "build:data": "node tools/build-dhd-data.js",
+    "build:dist": "node tools/prepare-cloudflare-dist.js",
     "dev": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
