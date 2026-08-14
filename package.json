@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "npm run build:data",
     "build:data": "node tools/build-dhd-data.js",
     "dev": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
