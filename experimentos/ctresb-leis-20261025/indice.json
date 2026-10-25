@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Lei nº 10.401 de 07/01/2002",
+    "tipo": "Lei Ordinária",
+    "numero": "10401",
+    "data": "2002-01-07",
+    "ementa": "Institui o ano 2002 como \"Ano Nacional Carlos Drummond de Andrade\".",
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-07;10401",
+    "arquivo": "normas/lei-10401-2002-01-07.md"
+  },
+  {
+    "titulo": "Lei nº 10.404 de 09/01/2002",
+    "tipo": "Lei Ordinária",
+    "numero": "10404",
+    "data": "2002-01-09",
+    "ementa": "Dispõe sobre a criação da Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, e dá outras providências.",
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-09;10404",
+    "arquivo": "normas/lei-10404-2002-01-09.md"
+  }
+]
